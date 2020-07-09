@@ -7,13 +7,8 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality 
 ### 📫 How to reach me:
 
 - Website: [maximousblk.now.sh](https://maximousblk.now.sh/)
-- Twitter: [@maximousblk](https://twitter.com/maximousblk)
-- Instagram: [@maximousblk](https://instagram.com/maximousblk)
-- Reddit: [u/maximousblk](http://reddit.com/u/maximousblk)
-- Keybase: [@maximousblk](https://keybase.io/maximousblk)
-- Telegram: [@maximousblk](https://t.me/maximousblk)
-- Medium: [@maximousblk](https://medium.com/@maximousblk)
-- dev.to: [@maximousblk](https://dev.to/maximousblk)
 - Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
+- Twitter: [@maximousblk](https://twitter.com/maximousblk)
+- dev.to: [@maximousblk](https://dev.to/maximousblk)
 
 ⚡ Fun fact: Wherever on the internet you wanna find me, just look for @maximousblk.
