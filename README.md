@@ -1,16 +1,22 @@
-### Hi there 👋
+## Maximous Black
 
-<!--
-**maximousblk/maximousblk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **/ˈmak.si.mus blak/**
 
-Here are some ideas to get you started:
+I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm still a student and preparing for college. I also love Physics, and I want to learn more about how the Universe works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [nest.land](https://nest.land/)
+- 🌱 I’m currently learning [Deno](https://deno.land/)
+
+### 📫 How to reach me:
+
+- Website: [maximousblk.now.sh](https://maximousblk.now.sh/)
+- Twitter: [@maximousblk](https://twitter.com/maximousblk)
+- Instagram: [@maximousblk](https://instagram.com/maximousblk)
+- Reddit: [u/maximousblk](http://reddit.com/u/maximousblk)
+- Keybase: [@maximousblk](https://keybase.io/maximousblk)
+- Telegram: [@maximousblk](https://t.me/maximousblk)
+- Medium: [@maximousblk](https://medium.com/@maximousblk)
+- dev.to: [@maximousblk](https://dev.to/maximousblk)
+- Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
+
+⚡ Fun fact: Wherever on the internet you wanna find me, just look for @maximousblk.
