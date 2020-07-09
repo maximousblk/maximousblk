@@ -11,4 +11,6 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality 
 - Twitter: [@maximousblk](https://twitter.com/maximousblk)
 - dev.to: [@maximousblk](https://dev.to/maximousblk)
 
-⚡ Fun fact: Wherever on the internet you wanna find me, just look for @maximousblk.
+Heck, wherever on the internet you wanna find me, just look for @maximousblk.
+
+You can also ask questions on my [Public AMA](https://github.com/maximousblk/maximousblk/issues)
