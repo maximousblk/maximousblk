@@ -16,4 +16,4 @@ Heck, wherever on the internet you wanna find me, just look for @maximousblk.
 
 You can also ask questions on my [Public AMA](https://github.com/maximousblk/maximousblk/issues)
 
-PGP Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
+PGP Public Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
