@@ -6,8 +6,8 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality 
 
 ### 📫 How to reach me:
 
-- Website: [maximousblk.now.sh](https://maximousblk.now.sh/)
 - Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
+- GitHub: [@maximousblk](https://github.com/maximousblk)
 - Twitter: [@maximousblk](https://twitter.com/maximousblk)
 - Keybase: [@maximousblk](https://keybase.io/maximousblk)
 - dev.to: [@maximousblk](https://dev.to/maximousblk)
