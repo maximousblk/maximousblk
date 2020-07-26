@@ -1,6 +1,6 @@
 ## Maximous Black
 
-> /ˈmak.si.mus blak/
+> /'mak.si.mus blak/
 
 I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm still a student and preparing for college. I also love Physics, and I want to learn more about how the Universe works.
 
