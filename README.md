@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="100" src="https://cdn.maximousblk.now.sh/images/max/logotype.svg">
+</p>
+
 ## Maximous Black
 
 > /'mak.si.mus blak/
@@ -8,9 +12,6 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality 
 
 - Website: [maximousblk.now.sh](https://maximousblk.now.sh/)
 - Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
-- Twitter: [@maximousblk](https://twitter.com/maximousblk)
-- Keybase: [@maximousblk](https://keybase.io/maximousblk)
-- dev.to: [@maximousblk](https://dev.to/maximousblk)
 
 Heck, wherever on the internet you wanna find me, just look for @maximousblk.
 
