@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="80" src="https://cdn.maximousblk.now.sh/images/max/logotype.svg">
+  <img height="100" src="https://cdn.maximousblk.now.sh/images/max/logotype.svg">
 </p>
 
 ## Maximous Black
@@ -12,8 +12,6 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality 
 
 - Website: [maximousblk.now.sh](https://maximousblk.now.sh/)
 - Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
-
-Heck, wherever on the internet you wanna find me, just look for @maximousblk.
 
 You can also ask questions on my [Public AMA](https://github.com/maximousblk/maximousblk/issues)
 
