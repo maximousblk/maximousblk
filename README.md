@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="100" src="https://cdn.maximousblk.now.sh/images/max/logotype.svg">
+  <img height="80" src="https://cdn.maximousblk.now.sh/images/max/logotype.svg">
 </p>
 
 ## Maximous Black
