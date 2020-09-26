@@ -2,8 +2,6 @@
   <img height="80" src="https://cdn.maximousblk.now.sh/images/max/logotype.svg">
 </p>
 
----
-
 ### Maximous Black
 
 > /'mak.si.mus blak/
