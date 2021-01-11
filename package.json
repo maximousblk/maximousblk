@@ -8,9 +8,11 @@
   },
   "license": "MIT",
   "scripts": {
-    "build": "next build",
     "dev": "next",
-    "start": "next build && next start"
+    "start": "next start",
+    "build": "next build",
+    "postbuild": "next-sitemap",
+    "prod": "yarn build && yarn start"
   },
   "dependencies": {
     "@mapbox/rehype-prism": "0.5.0",
@@ -35,6 +37,7 @@
     "preact": "^10.5.7",
     "react": "17.0.1",
     "react-dom": "17.0.1",
+    "react-feather": "^2.0.9",
     "react-tweet-embed": "1.2.2",
     "reading-time": "1.2.1",
     "remark-autolink-headings": "6.0.1",
@@ -47,6 +50,7 @@
   "devDependencies": {
     "globby": "11.0.1",
     "image-size": "0.9.3",
+    "next-sitemap": "^1.4.5",
     "prettier": "2.2.1",
     "rehype": "11.0.0",
     "remark-frontmatter": "3.0.0",

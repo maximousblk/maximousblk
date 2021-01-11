@@ -1,2 +1,9 @@
+# *
 User-agent: *
-Sitemap: https://leerob.io/sitemap.xml
+Allow: /
+
+# Host
+Host: https://maximousblk.now.sh
+
+# Sitemaps
+Sitemap: https://maximousblk.now.sh/sitemap.xml

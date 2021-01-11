@@ -1,20 +1,20 @@
-const title = 'Lee Robinson – Developer, writer, creator.';
-const description =
-  'Front-end developer, JavaScript enthusiast, and course creator.';
+import config from "@/data/config";
 
+const title = config.name;
+const description = config.description;
 const SEO = {
   title,
   description,
-  canonical: 'https://leerob.io',
+  canonical: config.baseUrl,
   openGraph: {
-    type: 'website',
-    locale: 'en_IE',
-    url: 'https://leerob.io',
+    type: "website",
+    locale: "en_IE",
+    url: config.baseUrl,
     title,
     description,
     images: [
       {
-        url: 'https://leerob.io/static/images/banner.jpg',
+        url: config.baseUrl + "/static/images/banner.jpg",
         alt: title,
         width: 1280,
         height: 720
@@ -22,9 +22,9 @@ const SEO = {
     ]
   },
   twitter: {
-    handle: '@leeerob',
-    site: '@leeerob',
-    cardType: 'summary_large_image'
+    handle: "@" + config.username,
+    site: "@" + config.username,
+    cardType: "summary_large_image"
   }
 };
 

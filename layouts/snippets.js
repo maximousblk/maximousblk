@@ -2,9 +2,11 @@ import { NextSeo } from "next-seo";
 
 import Container from "@/components/Container";
 
+import config from "@/data/config";
+
 export default function SnippetLayout({ children, frontMatter }) {
-  const title = `${frontMatter.title} - Code Snippet`;
-  const url = `https://leerob.io/snippets/${frontMatter.slug}`;
+  const title = `${frontMatter.title} - ${config.name}`;
+  const url = `${config.baseUrl}/snippets/${frontMatter.slug}`;
 
   return (
     <Container>
@@ -27,7 +29,7 @@ export default function SnippetLayout({ children, frontMatter }) {
             </p>
           </div>
         </div>
-        <div className="prose dark:prose-dark w-full">{children}</div>
+        <div className="prose dark:prose-dark min-w-full">{children}</div>
       </article>
     </Container>
   );

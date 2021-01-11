@@ -1,7 +1,7 @@
 import hydrate from 'next-mdx-remote/hydrate';
 
 import { getFileBySlug } from '@/lib/mdx';
-import UsesLayout from '@/layouts/uses';
+import IndexLayout from '@/layouts/index';
 import MDXComponents from '@/components/MDXComponents';
 
 export default function Uses({ mdxSource, frontMatter }) {
@@ -9,11 +9,11 @@ export default function Uses({ mdxSource, frontMatter }) {
     components: MDXComponents
   });
 
-  return <UsesLayout frontMatter={frontMatter}>{content}</UsesLayout>;
+  return <IndexLayout frontMatter={frontMatter}>{content}</IndexLayout>;
 }
 
 export async function getStaticProps() {
-  const uses = await getFileBySlug('pages/index');
+  const index = await getFileBySlug('pages/home');
 
-  return { props: uses };
+  return { props: index };
 }

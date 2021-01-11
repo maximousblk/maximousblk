@@ -2,9 +2,11 @@ import { NextSeo } from "next-seo";
 
 import Container from "@/components/Container";
 
-export default function UsesLayout({ children, frontMatter }) {
-  const title = `${frontMatter.title} - Lee Robinson`;
-  const url = `https://leerob.io/snippets/${frontMatter.slug}`;
+import config from "@/data/config";
+
+export default function PageLayout({ children, frontMatter }) {
+  const title = `${frontMatter.title} - ${config.name}`;
+  const url = `${config.baseUrl}/${frontMatter.slug}`;
   const description = frontMatter.summary;
 
   return (
@@ -19,9 +21,11 @@ export default function UsesLayout({ children, frontMatter }) {
         <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white">
           {frontMatter.title}
         </h1>
-        {!frontMatter.hide_summary && <p className="text-gray-700 dark:text-gray-300 mt-2 mb-8">
-          {description}
-        </p>}
+        {!frontMatter.hide_summary && (
+          <p className="text-gray-700 dark:text-gray-300 mt-2 mb-8">
+            {description}
+          </p>
+        )}
         <div className="prose dark:prose-dark w-full">{children}</div>
       </article>
     </Container>

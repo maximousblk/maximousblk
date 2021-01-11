@@ -1,17 +1,14 @@
-import '@/styles/global.css';
+import "@/styles/global.css";
 
-import { MDXProvider } from '@mdx-js/react';
-import { ThemeProvider } from 'next-themes';
-import { DefaultSeo } from 'next-seo';
-import Head from 'next/head';
+import { MDXProvider } from "@mdx-js/react";
+import { ThemeProvider } from "next-themes";
+import { DefaultSeo } from "next-seo";
+import Head from "next/head";
 
-import SEO from '../next-seo.config';
-import MDXComponents from '@/components/MDXComponents';
-import { useAnalytics } from '@/lib/analytics';
+import SEO from "../next-seo.config";
+import MDXComponents from "@/components/MDXComponents";
 
 export default function App({ Component, pageProps }) {
-  useAnalytics();
-
   return (
     <ThemeProvider attribute="class">
       <MDXProvider components={MDXComponents}>

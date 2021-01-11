@@ -1,13 +1,11 @@
 ---
-title: 'Create a Dashboard with Next.js API Routes - Unsplash API'
-publishedAt: '2020-02-04'
-summary: 'Learn how to use Next.js API routes to integrate with the Unsplash API and retrieve statistics about a user.'
-image: '/static/images/banner.jpg'
+title: "Create a Dashboard with Next.js API Routes - Unsplash API"
+publishedAt: "2020-02-04"
+summary: "Learn how to use Next.js API routes to integrate with the Unsplash API and retrieve statistics about a user."
+image: "/static/images/banner.jpg"
 ---
 
 > In this series, you will learn how to [create a dashboard](/dashboard) using Next.js API routes and integrate with third-party APIs.
-
-<Unsplash />
 
 ## Overview
 
@@ -80,7 +78,7 @@ $ yarn add unsplash-js@6.3.0
 Then, we can initialize `unsplash-js` inside our API route.
 
 ```js
-import Unsplash, { toJson } from 'unsplash-js';
+import Unsplash, { toJson } from "unsplash-js";
 
 let unsplash;
 
@@ -98,7 +96,7 @@ export default async (_, res) => {
 Finally, we want to pull statistics for a given user and return the total number of downloads and views.
 
 ```js
-import Unsplash, { toJson } from 'unsplash-js';
+import Unsplash, { toJson } from "unsplash-js";
 
 let unsplash;
 
@@ -109,7 +107,7 @@ export default async (_, res) => {
     });
   }
 
-  const userStats = await unsplash.users.statistics('leerob');
+  const userStats = await unsplash.users.statistics("leerob");
   const { downloads, views } = await toJson(userStats);
 
   return res.status(200).json({
@@ -128,8 +126,6 @@ _Bonus_: You can cache the API route with the [cache-control](https://developer.
 ```bash
 Cache-Control: public, max-age=120, stale-while-revalidate=60
 ```
-
-<Unsplash />
 
 ## Keep Reading
 
