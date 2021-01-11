@@ -1,18 +1,30 @@
-<p align="center">
-  <img height="80" src="https://cdn.maximousblk.now.sh/images/max/logotype.svg">
-</p>
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fleerob%2Fleerob.io)
 
-### Maximous Black
+# leerob.io
 
-> /'mak.si.mus blak/
+My portfolio has transformed over the years - from a static HTML site, to Jekyll, to Hugo, and finally to Next.js/React/MDX. My personal slice of the internet provides a platform for my writing and to showcase my latest work.
 
-I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm still a student and preparing for college. I also love Physics, and I want to learn more about how the Universe works.
+## Overview
 
-### 📫 How to reach me:
+- `pages/api/*` - [API routes](https://nextjs.org/docs/api-routes/introduction) powering [`/dashboard`](https://leerob.io/dashboard), newsletter subscription, and post views.
+- `pages/blog/*` - Static pre-rendered blog pages using [MDX](https://github.com/mdx-js/mdx).
+- `pages/dashboard` - [Personal dashboard](https://leerob.io/dashboard) containing metrics like sales, views, and subscribers.
+- `pages/*` - All other static pages.
 
-- Website: [maximousblk.now.sh](https://maximousblk.now.sh/)
-- Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
+## Running Locally
 
-You can also ask questions on my [Public AMA](https://github.com/maximousblk/maximousblk/issues)
+```bash
+$ git clone https://github.com/leerob/leerob.io.git
+$ cd leerob.io
+$ yarn
+$ yarn dev
+```
 
-PGP Public Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
+Create a `.env.local` file similar to [`.env.example`](https://github.com/leerob/leerob.io/blob/master/.env.example).
+
+## Built Using
+
+- [Next.js](https://nextjs.org/)
+- [Vercel](https://vercel.com)
+- [MDX](https://github.com/mdx-js/mdx)
+- [Tailwind CSS](https://tailwindcss.com/)
