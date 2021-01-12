@@ -1,0 +1,182 @@
+---
+title: Deno for JavaScript Beginners
+summary: "So, you're trying to learn JavaScript. You have just gotten a bit fluent with JavaScript in the browser. Then all of a sudden, you come across Deno and the #NodeKiller hype. But you don't know what any of these are. If that's the case, read on!"
+publishedAt: '2020-05-21'
+image: /images/deno-for-javascript-beginners/cover.png
+---
+
+So, you're trying to learn JavaScript. You have just gotten a bit fluent with JavaScript in the browser. Then all of a sudden, you come across [Deno](https://deno.land/) and the #NodeKiller hype. But you don't know what any of these are. If that's the case, read on!
+
+Before diving in, you need some background information.
+
+# What is a JavaScript Engine?
+
+As you may know, JavaScript is an interpreted programming language. It means that source code isn’t compiled into binary code prior to execution.
+
+> But how does the computer know what to do with a plain text script?
+
+That’s the job for a JavaScript engine. A JavaScript engine compiles JavaScript code into executable machine code on the fly. This is known a Just In Time (JIT) compilation.
+
+For example, when you run JavaScript on google chrome, your JavaScript engine is V8. If on Mozilla, it is SpiderMonkey.
+
+# What is a JavaScript Runtime Environment?
+
+You don’t usually use the JavaScript engine directly. The JavaScript engine works inside an environment, which provides additional features to your JavaScript application that you can use at runtime.
+
+> What features?
+
+These can be APIs that allow communicating with the environment outside of the engine.
+
+For example, a web browser like Google Chrome is a desktop JavaScript runtime environment that uses the V8 JavaScript engine and provides DOM API, Fetch API, Storage API, etc.
+
+Similarly, Server-side runtime environments like Node and Deno use the V8 engine and provide File System Access, Network Access, Console, etc.
+
+# Why do we need a runtime outside of a browser?
+
+Although the main environment for JavaScript is a web browser, in recent years, JavaScript has taken over the server platforms.
+
+Server-side JavaScript runtime environments give you access to the file system, network, and other things that aren’t allowed in web browsers. You can actually build a whole web application (from the UI to the data layer) with a technology stack based only on JavaScript like [MEAN](http://meanjs.org/) or [MERN](https://www.geeksforgeeks.org/mern-stack/).
+
+# What's wrong with NodeJS?
+
+According to Ryan Dahl (the creator of NodeJS), there were some things NodeJS did wrong. He delivered a [presentation](https://youtu.be/M3BM9TB-8yA) about this at JSConf EU 2018.
+
+### Not sticking with Promises
+
+NodeJS actually had native promises support but after a few months, it was removed. Due to this NodeJS has to use workarounds for promises implementation.
+
+### Security
+
+V8 by itself is a very good security sandbox. NodeJS removes all of those security features and gives the application access to everything.
+
+### The Build System
+
+I don't fully understand this one so don't quote me.
+
+Chrome started using [GYP](https://gyp.gsrc.io/) for the build system so NodeJS switched too. But later Chrome dropped GYP and adopted [GN](https://gn.googlesource.com/gn/) for their build system as it was faster and simpler. According to Ryan Dahl, the continued usage of GYP is the probably largest failure of NodeJS core.
+
+### npm and package.json
+
+All npm packages contain a file, usually in the project root, called [package.json](https://docs.npmjs.com/files/package.json) - this file holds various metadata relevant to the project.
+
+> What's npm
+
+npm or Node Package Manager, as the name suggests, is used to manage dependency packages in your project to make your life easier.
+
+> That sounds great! what's the problem with this?
+
+The package.json file has some unnecessary information that is only required by the npm registry. Ryan describes this as "boilerplate noise" as it does not add anything but noise to the project.
+
+npm is centralized and privately controlled. If you have done some projects in the browser, you would know how you link to dependencies. similar to JQuery, Bootstrap, etc. You add any link to the HTML and you can use it directly. In Node, you cannot install dependencies form anywhere but npm.
+
+### require("module") without the extension ".js"
+
+This is how you import external libraries, which is not specific enough. For example, if you want to install JQuery in your project, you would first use npm to install it in the project folder using the install command
+
+```bash
+npm install jquery
+```
+
+Then if you want to use it in a file, you would add a "require()" statement to the file in which you want to use JQuery.
+
+```js
+require("JQuery");
+
+// code that uses JQuery
+```
+
+> How is that a problem? It looks neat!
+
+Yeah, but the algorithms, required for this _neat_ syntax to work, are very complex and inefficient. The module loader has to query the file system at multiple locations trying to guess what the user intended.
+
+### node_modules
+
+This is the aftermath of using that neat syntax for importing modules.
+
+When you install dependencies in your project, they get downloaded to the "node_modules" folder.
+
+> That makes it neater! I can use them offline! Is that a problem?
+
+The problem is that the dependencies you install, have their own dependencies, and same for them. The dependency tree grows so big, it's hard to manage and store. And you have to do this for every single project, which probably mostly use the same dependencies. There is no way to share dependencies between projects.
+
+Let's say you want to create two different projects but they both use JQuery, you can download "JQuery.js" file and keep it in a shared folder to which you can link from both the projects. And when you are ready to publish the projects, you just change the link to the remote file and publish them. You can even reuse the local file for any future projects. This is not possible in Node.
+
+And if there's a meme about it, then you know it's serious. This is one of the slides from the presentation.
+
+![node_modules](/images/deno-for-javascript-beginners/node_modules.jpg)
+
+### index.js
+
+Similar to "index.html", NodeJS would look for an "index.js" file if not specified. This was an unnecessary thing to do. It needlessly complicated the module loading system. It became especially unnecessary after "require()" supported package.json
+
+> Why don't they fix these problems?
+
+At this point, all these problems are the core features of NodeJS, and trying to fix them would mean creating a whole new thing. And there is so much code that uses NodeJS that fixing these problems would be the same as a permanent blackout. All old code would become obsolete. Many tech giants use it, many startups use it, many developers use it for personal projects. **It's everywhere!**
+
+> Then why don't they create a whole new thing?
+
+To that, I would like to say:
+
+_You don't ask for it until you know you can get it._
+
+NodeJS, when it came out in 2009, was the best thing that could have happened to the web.
+
+And yes, they did create a whole new thing... Deno.
+
+# What is Deno?
+
+Deno is a _new_ cross-platform runtime environment, based on Google's V8 engine, just like NodeJS. It's made by the creator of NodeJS, Ryan Dahl. And it is made for the same purpose as NodeJS.
+
+> If it's just like NodeJS, what's new in that?
+
+Unlike Node (C++), It's written in Rust, which makes it much faster and safer. It also has many cool new features.
+
+### TypeScript support
+
+Deno supports [Typescript](https://www.typescriptlang.org/) out of the box. You don't have to set up or configure anything.
+
+> What is TypeScript?
+
+TypeScript is a typed superset of JavaScript that transpiles to plain JavaScript. It is developed by Microsoft. Typescript adds many features that make it easier to scale your JavaScript apps and prevent future bugs from the beginning.
+
+You don't need to learn a whole new language for this. Any JavaScript code is a valid typescript code but not the other way around. TypeScript transpiles to clean, simple JavaScript code that runs on any JavaScript engine that supports ECMAScript 3 (or newer).
+
+> That's a lot of scripts you're throwing at me. What is ECMAScript?
+
+For now, think of ECMAScript as versions of JavaScript. you can find more information [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources).
+
+### ES modules import syntax
+
+Deno lets you import from the web using ES module syntax, just like you can in the browser.
+
+```js
+import { bgBlue, red, bold } from "https://deno.land/std/colors/mod.ts";
+```
+
+> What about the offline usage?
+
+Deno caches the dependencies after it fetches them the first time. So now you don't even have to use a separate local file for development. It all just works. And the cached dependencies can be shared between projects so you use one copy of each dependency for every project you are working on.
+
+This one switch thing solves the whole node_modules problem, makes it faster and helps Deno use the standard JavaScript you use everywhere.
+
+### Secure by default
+
+By default, if you run a JavaScript file in Deno, it has no permissions other than read permissions for the project directory. You have to explicitly say yes to all the permissions you want your script to have. It doesn't even have permission to connect to the internet or even your local network. You control what you want your script to do.
+
+> That's it? That's all you got?
+
+Most of the changes happened under the hood. The runtime itself got faster, respects browser standard so that it doesn't have to use made-up APIs, got rid of npm, and everything it brought to the table. Stripped all of the unnecessary workarounds and gives you a minimal runtime environment to just get things done.
+
+> Node just got destroyed, right?
+
+Wrong! There's one thing, that still keeps Node where it is... age. Over time, Node has gained a lot of users, learning resources, and community support. Deno on the other hand recently hit the version 1.0 milestone. This means it has a very small userbase, not a lot at learning resources, and itself has divided the JavaScript community into two parts.
+
+There is also no standard workflows and development stacks for Deno yet. And it is a long way from tech giants like Google and Microsoft switching to it full time. Which in turn means no jobs related to Deno, because of which, not many people will try to learn it.
+
+So the main thing holding back Deno from being the #NodeKiller is the userbase.
+
+> So should I try it out?
+
+Try it out? Yes! Fully commit to it? Not yet!
+
+If you are new to JavaScript, You should definitely learn NodeJS first. In the future, if Deno still proves to be the #NodeKiller, you can switch to Deno easily. All you got to do is ditch the neat import syntax and start feeling responsible for what you make.
