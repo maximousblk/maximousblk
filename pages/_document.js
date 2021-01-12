@@ -1,4 +1,4 @@
-import Document, { Html, Head, Main, NextScript } from 'next/document';
+import Document, { Html, Head, Main, NextScript } from "next/document";
 
 class MyDocument extends Document {
   render() {
@@ -7,18 +7,12 @@ class MyDocument extends Document {
         <Head>
           <link
             rel="preload"
-            href="/fonts/inter-var-latin.woff2"
-            as="font"
-            type="font/woff2"
+            href="https://rsms.me/inter/inter.css"
             crossOrigin="anonymous"
           />
           <link href="/static/favicons/favicon.ico" rel="shortcut icon" />
           <link href="/static/favicons/site.webmanifest" rel="manifest" />
-          <link
-            rel="preconnect"
-            href="https://cdn.usefathom.com"
-            crossOrigin=""
-          />
+          <link rel="preconnect" href="https://rsms.me" crossOrigin="" />
           <link
             href="/static/favicons/apple-touch-icon.png"
             rel="apple-touch-icon"
@@ -48,9 +42,9 @@ class MyDocument extends Document {
             content="/static/favicons/browserconfig.xml"
             name="msapplication-config"
           />
-          <meta content="14d2e73487fa6c71" name="yandex-verification" />
+          <meta content="xxxxxxxxxxxxxxxx" name="yandex-verification" />
           <meta
-            content="eZSdmzAXlLkKhNJzfgwDqWORghxnJ8qR9_CHdAh5-xw"
+            content="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
             name="google-site-verification"
           />
         </Head>

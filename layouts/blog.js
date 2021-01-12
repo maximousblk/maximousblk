@@ -2,7 +2,7 @@ import { parseISO, format } from "date-fns";
 
 import Container from "@/components/Container";
 import BlogSeo from "@/components/BlogSeo";
-
+import { ExternalLink } from "react-feather";
 import config from "@/data/config";
 
 const editUrl = (slug) =>
@@ -36,21 +36,31 @@ export default function BlogLayout({ children, frontMatter }) {
         <div className="prose dark:prose-dark max-w-none w-full">
           {children}
         </div>
-        <div className="text-sm text-gray-700 dark:text-gray-300 mt-8">
+        <div className="flex space-x-3 text-sm text-gray-700 dark:text-gray-300 hover:text-gray-800 hover:dark:text-gray-200 mt-8">
           <a
             href={discussUrl(frontMatter.slug)}
             target="_blank"
             rel="noopener noreferrer"
+            className="hover:underline"
           >
             {"Discuss on Twitter"}
+            <ExternalLink
+              size={16}
+              className="inline-block ml-1 text-gray-500"
+            />
           </a>
-          {` • `}
+          <p> • </p>
           <a
             href={editUrl(frontMatter.slug)}
             target="_blank"
             rel="noopener noreferrer"
+            className="hover:underline"
           >
             {"Edit on GitHub"}
+            <ExternalLink
+              size={16}
+              className="inline-block ml-1 text-gray-500"
+            />
           </a>
         </div>
       </article>
