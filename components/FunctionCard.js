@@ -4,7 +4,6 @@ export default function FunctionCard({
   title,
   description,
   slug,
-  logo,
   ...rest
 }) {
   return (

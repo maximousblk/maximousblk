@@ -15,13 +15,15 @@ const description = config.description;
 export default function Blog({ posts }) {
   const [searchValue, setSearchValue] = useState("");
   const filteredBlogPosts = posts
-    .sort(
-      (a, b) =>
-        Number(new Date(b.publishedAt)) - Number(new Date(a.publishedAt))
-    )
-    .filter((frontMatter) =>
-      frontMatter.title.toLowerCase().includes(searchValue.toLowerCase())
-    );
+    .sort((a, b) => {
+      return Number(new Date(b.publishedAt)) - Number(new Date(a.publishedAt));
+    })
+    .filter((frontMatter) => {
+      return (
+        frontMatter.title.toLowerCase().includes(searchValue.toLowerCase()) &&
+        !(frontMatter.draft || frontMatter.unlisted)
+      );
+    });
 
   return (
     <Container>
@@ -41,10 +43,10 @@ export default function Blog({ posts }) {
         </h1>
         <div className="relative w-full mb-4">
           <input
-            aria-label={`Search through ${posts.length} articles`}
+            aria-label={`Search through ${filteredBlogPosts.length} articles`}
             type="text"
             onChange={(e) => setSearchValue(e.target.value)}
-            placeholder={`Search through ${posts.length} articles`}
+            placeholder={`Search through ${filteredBlogPosts.length} articles`}
             className="px-4 py-2 border border-gray-300 dark:border-gray-900 focus:ring-blue-500 focus:border-blue-500 block w-full rounded-md bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
           />
           <SearchIcon className="absolute right-3 top-3 h-4 w-4 text-gray-400 dark:text-gray-300" />

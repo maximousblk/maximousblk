@@ -3,7 +3,7 @@ import Document, { Html, Head, Main, NextScript } from "next/document";
 class MyDocument extends Document {
   render() {
     return (
-      <Html lang="en">
+      <Html lang="en-US">
         <Head>
           <link
             rel="preload"
@@ -31,17 +31,12 @@ class MyDocument extends Document {
             type="image/png"
           />
           <link
-            color="#4a9885"
+            color="#AB9DF2"
             href="/static/favicons/safari-pinned-tab.svg"
             rel="mask-icon"
           />
           <meta content="IE=edge" httpEquiv="X-UA-Compatible" />
           <meta content="#ffffff" name="theme-color" />
-          <meta content="#ffffff" name="msapplication-TileColor" />
-          <meta
-            content="/static/favicons/browserconfig.xml"
-            name="msapplication-config"
-          />
           <meta content="xxxxxxxxxxxxxxxx" name="yandex-verification" />
           <meta
             content="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
