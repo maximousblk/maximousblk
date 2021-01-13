@@ -1,7 +1,7 @@
 import hydrate from 'next-mdx-remote/hydrate';
 
 import { getFiles, getFileBySlug } from '@/lib/mdx';
-import SnippetLayout from '@/layouts/snippets';
+import SnippetLayout from '@/layouts/snippet';
 import MDXComponents from '@/components/MDXComponents';
 
 export default function Snippet({ mdxSource, frontMatter }) {

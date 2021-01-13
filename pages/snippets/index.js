@@ -13,11 +13,12 @@ const title = "Code Snippets – " + config.name;
 
 export default function Snippets({ snippets }) {
   const [searchValue, setSearchValue] = useState("");
-  const filteredSnippets = snippets
-    .sort()
-    .filter((frontMatter) =>
-      frontMatter.title.toLowerCase().includes(searchValue.toLowerCase())
+  const filteredSnippets = snippets.sort().filter((frontMatter) => {
+    return (
+      frontMatter.title.toLowerCase().includes(searchValue.toLowerCase()) &&
+      !frontMatter.unlisted
     );
+  });
 
   return (
     <Container>

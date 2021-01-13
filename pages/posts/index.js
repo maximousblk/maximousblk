@@ -21,7 +21,7 @@ export default function Blog({ posts }) {
     .filter((frontMatter) => {
       return (
         frontMatter.title.toLowerCase().includes(searchValue.toLowerCase()) &&
-        !(frontMatter.draft || frontMatter.unlisted)
+        !frontMatter.unlisted
       );
     });
 

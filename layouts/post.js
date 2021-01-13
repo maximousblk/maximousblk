@@ -5,14 +5,15 @@ import BlogSeo from "@/components/BlogSeo";
 import { ExternalLink } from "react-feather";
 import config from "@/data/config";
 
-const editUrl = (slug) =>
-  `https://github.com/${config.repo.name}/edit/${config.repo.branch}/data/posts/${slug}.mdx`;
-const discussUrl = (slug) =>
-  `https://mobile.twitter.com/search?q=${encodeURIComponent(
-    `${config.baseUrl}/posts/${slug}`
-  )}`;
+const editUrl = (slug) => {
+  return `https://github.com/${config.repo.name}/edit/${config.repo.branch}/data/posts/${slug}.mdx`;
+};
+const discussUrl = (slug) => {
+  let query = encodeURIComponent(`${config.baseUrl}/posts/${slug}`);
+  return `https://mobile.twitter.com/search?q=${query}`;
+};
 
-export default function BlogLayout({ children, frontMatter }) {
+export default function PostLayout({ children, frontMatter }) {
   return (
     <Container>
       <BlogSeo
