@@ -11,4 +11,6 @@ My personal slice of the internet.
 
 ## License
 
-see [LICENSE](./LICENSE)
+Contents of directory [`./data`](./data) are Licensed under the [`CC BY-NC-ND 4.0`](./data/LICENSE)
+
+For web site source code, see [LICENSE](./LICENSE).
