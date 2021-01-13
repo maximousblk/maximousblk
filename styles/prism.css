@@ -1,0 +1,77 @@
+code[class*="language-"],
+pre[class*="language-"] {
+  -moz-tab-size: 2;
+  -o-tab-size: 2;
+  tab-size: 2;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+
+  @apply text-gray-800 dark:text-gray-50;
+}
+
+.language-css > code,
+.language-sass > code,
+.language-scss > code {
+  @apply text-orange-500;
+}
+
+[class*="language-"] .namespace {
+  opacity: 0.7;
+}
+
+.token.atrule,
+.token.boolean,
+.token.class-name,
+.token.constant,
+.token.function,
+.token.id,
+.token.important,
+.token.keyword,
+.token.regex,
+.token.symbol {
+  @apply text-violet-500;
+}
+
+.token.attr-name,
+.token.builtin,
+.token.cdata,
+.token.char,
+.token.class,
+.token.inserted,
+.token.operator,
+.token.property {
+  @apply text-cyan-500;
+}
+
+.token.comment,
+.token.doctype,
+.token.prolog,
+.token.punctuation {
+  @apply text-gray-500;
+}
+
+.token.deleted,
+.token.entity,
+.token.number,
+.token.selector,
+.token.tag,
+.token.url,
+.token.variable {
+  @apply text-rose-500;
+}
+
+.token.attr-value,
+.token.attribute,
+.token.pseudo-class,
+.token.pseudo-element,
+.token.string {
+  @apply text-amber-500;
+}
+
+.token.hexcode,
+.token.unit {
+  @apply text-orange-500;
+}

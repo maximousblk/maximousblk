@@ -1,9 +1,11 @@
 const { spacing, fontFamily } = require("tailwindcss/defaultTheme");
+const colors = require("tailwindcss/colors");
 
 module.exports = {
   purge: ["./pages/**/*.js", "./components/**/*.js", "./layouts/**/*.js"],
   darkMode: "class",
   theme: {
+    colors: colors,
     extend: {
       fontFamily: {
         sans: ["Inter var", "Inter", ...fontFamily.sans],
@@ -14,10 +16,10 @@ module.exports = {
           css: {
             color: theme("colors.gray.700"),
             a: {
-              color: theme("colors.blue.500"),
+              color: theme("colors.indigo.500"),
               "&:hover": {
-                color: theme("colors.blue.700")
-              },
+                color: theme("colors.indigo.700")
+              }
             },
             "h1,h2,h3,h4": {
               "scroll-margin-top": spacing[32]
@@ -40,10 +42,10 @@ module.exports = {
           css: {
             color: theme("colors.gray.300"),
             a: {
-              color: theme("colors.blue.400"),
+              color: theme("colors.indigo.400"),
               "&:hover": {
-                color: theme("colors.blue.600")
-              },
+                color: theme("colors.indigo.600")
+              }
             },
             blockquote: {
               borderLeftColor: theme("colors.gray.700"),
