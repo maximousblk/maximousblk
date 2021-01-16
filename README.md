@@ -13,6 +13,6 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality 
 - Website: [maximousblk.now.sh](https://maximousblk.now.sh/)
 - Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
 
-You can also ask questions on my [Public AMA](https://github.com/maximousblk/maximousblk/issues)
+You can also ask questions on my [Public AMA](https://github.com/maximousblk/maximousblk/discussions/new?category=ama)
 
 PGP Public Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
