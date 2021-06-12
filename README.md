@@ -1,6 +1,4 @@
-<p align="center">
-  <img height="80" src="https://cdn.maximousblk.now.sh/images/max/logotype.svg">
-</p>
+<!-- ]V[ -->
 
 ### Maximous Black
 
