@@ -8,7 +8,7 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality 
 
 ### 📫 How to reach me:
 
-- Website: [maximousblk.now.sh](https://maximousblk.now.sh/)
+- Website: [maximousblk.me](https://maximousblk.me/)
 - Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
 
 You can also ask questions on my [Public AMA](https://github.com/maximousblk/maximousblk/discussions/new?category=ama)
