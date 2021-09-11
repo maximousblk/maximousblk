@@ -32,6 +32,15 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [chore(deps): bump std to `0.97.0`](https://github.com/maximousblk/serve/pull/3) on [maximousblk/serve](https://github.com/maximousblk/serve)
 
 
+### 🔭 Latest releases I've contributed to
+
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`knipferrc/fm/02f3a49`](https://github.com/maximousblk/mill/releases/tag/knipferrc%2Ffm%2F02f3a49) - Set of GitHub Actions for me to build my favorite projects.
+- [maximousblk/deno_nightly](https://github.com/maximousblk/deno_nightly) [`2021.09.11`](https://github.com/maximousblk/deno_nightly/releases/tag/2021.09.11) - 🌙 Nightly builds for Deno 🦕
+- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.2`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.2) - GitHub Action to set up Deno
+- [probot/probot](https://github.com/probot/probot) [`v12.1.1`](https://github.com/probot/probot/releases/tag/v12.1.1) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
+- [maximousblk/ghlog](https://github.com/maximousblk/ghlog) [`0.3.4`](https://github.com/maximousblk/ghlog/releases/tag/0.3.4) - Generate release notes based on GitHub Commits
+
+
 ### ⭐ Recent Stars
 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like.
@@ -45,8 +54,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 - Website: [maximousblk.me](https://maximousblk.me/)
 - Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
+- Twitter: [@maximousblk](https://twitter.com/maximousblk)
 
-You can also ask me a question on my [Public
-AMA](https://github.com/maximousblk/maximousblk/discussions/new?category=ama)
+You can also ask me a question on my [PublicAMA](https://github.com/maximousblk/maximousblk/discussions/new?category=ama)
 
 My PGP Public Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)

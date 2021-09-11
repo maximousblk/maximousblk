@@ -20,6 +20,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 {{ range recentPullRequests 5 }}- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{ end }}
 
+### 🔭 Latest releases I've contributed to
+
+{{ range recentReleases 5 }}- [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
+{{ end }}
+
 ### ⭐ Recent Stars
 
 {{ range recentStars 5 }}- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
