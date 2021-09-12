@@ -36,6 +36,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 - Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
 - Twitter: [@maximousblk](https://twitter.com/maximousblk)
 
-You can also ask me a question on my [PublicAMA](https://github.com/maximousblk/maximousblk/discussions/new?category=ama)
+You can also ask me a question on my [Public AMA](https://github.com/maximousblk/maximousblk/discussions/new?category=ama)
 
 My PGP Public Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
