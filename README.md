@@ -8,10 +8,10 @@ student and I also love Physics, and want to learn more about how the Universe w
 ### 👷 Check out what I'm currently working on
 
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
+- [maximousblk/deno_nightly](https://github.com/maximousblk/deno_nightly) - 🌙 Nightly builds for Deno 🦕
 - [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub Apps with Probot and NextJS.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) - GitHub Action to set up Deno
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
-- [nestdotland/gql](https://github.com/nestdotland/gql) - [WIP] 📡 Nest GraphQL API
 
 
 ### 🌱 My latest projects
@@ -34,8 +34,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/deno_nightly](https://github.com/maximousblk/deno_nightly) [`2021.09.12`](https://github.com/maximousblk/deno_nightly/releases/tag/2021.09.12) - 🌙 Nightly builds for Deno 🦕
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`knipferrc/fm/02f3a49`](https://github.com/maximousblk/mill/releases/tag/knipferrc%2Ffm%2F02f3a49) - Set of GitHub Actions for me to build my favorite projects.
-- [maximousblk/deno_nightly](https://github.com/maximousblk/deno_nightly) [`2021.09.11`](https://github.com/maximousblk/deno_nightly/releases/tag/2021.09.11) - 🌙 Nightly builds for Deno 🦕
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.2`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.2) - GitHub Action to set up Deno
 - [probot/probot](https://github.com/probot/probot) [`v12.1.1`](https://github.com/probot/probot/releases/tag/v12.1.1) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [maximousblk/ghlog](https://github.com/maximousblk/ghlog) [`0.3.4`](https://github.com/maximousblk/ghlog/releases/tag/0.3.4) - Generate release notes based on GitHub Commits
@@ -43,11 +43,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [raunofreiberg/ui-playbook](https://github.com/raunofreiberg/ui-playbook) - The documented collection of UI components 🤓
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
-- [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 
 
 ### 📫 How to reach me:
