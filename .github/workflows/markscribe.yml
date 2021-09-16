@@ -28,7 +28,3 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           commit_message: 'markscribe: update README.md'
-          branch: main
-          commit_user_name: markscribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: markscribe 🤖 <actions@github.com>
