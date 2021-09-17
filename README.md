@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
 - [nestdotland/.github](https://github.com/nestdotland/.github) - 🦄 Nest Community Health Files
 - [nestdotland/deno-import-intellisense](https://github.com/nestdotland/deno-import-intellisense) - Endpoint for Deno&#39;s import intellisense
 - [maximousblk/deno_nightly](https://github.com/maximousblk/deno_nightly) - 🌙 Nightly builds for Deno 🦕
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
-- [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub Apps with Probot and NextJS.
 
 
 ### 🌱 My latest projects
