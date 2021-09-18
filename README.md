@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [nestdotland/eggs](https://github.com/nestdotland/eggs) - 🥚 Nest&#39;s Multipurpose CLI
 - [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
 - [nestdotland/.github](https://github.com/nestdotland/.github) - 🦄 Nest Community Health Files
 - [nestdotland/deno-import-intellisense](https://github.com/nestdotland/deno-import-intellisense) - Endpoint for Deno&#39;s import intellisense
 - [maximousblk/deno_nightly](https://github.com/maximousblk/deno_nightly) - 🌙 Nightly builds for Deno 🦕
-- [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 
 
 ### 🌱 My latest projects
@@ -34,20 +34,20 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [nestdotland/eggs](https://github.com/nestdotland/eggs) [`0.3.9`](https://github.com/nestdotland/eggs/releases/tag/0.3.9) - 🥚 Nest&#39;s Multipurpose CLI
 - [maximousblk/deno_nightly](https://github.com/maximousblk/deno_nightly) [`2021.09.12`](https://github.com/maximousblk/deno_nightly/releases/tag/2021.09.12) - 🌙 Nightly builds for Deno 🦕
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`knipferrc/fm/02f3a49`](https://github.com/maximousblk/mill/releases/tag/knipferrc%2Ffm%2F02f3a49) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.2`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.2) - GitHub Action to set up Deno
 - [probot/probot](https://github.com/probot/probot) [`v12.1.1`](https://github.com/probot/probot/releases/tag/v12.1.1) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
-- [maximousblk/ghlog](https://github.com/maximousblk/ghlog) [`0.3.4`](https://github.com/maximousblk/ghlog/releases/tag/0.3.4) - Generate release notes based on GitHub Commits
 
 
 ### ⭐ Recent Stars
 
+- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [raunofreiberg/ui-playbook](https://github.com/raunofreiberg/ui-playbook) - The documented collection of UI components 🤓
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like.
-- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 
 
 ### 📫 How to reach me:
