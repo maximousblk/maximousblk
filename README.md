@@ -7,12 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
+- [nestdotland/.github](https://github.com/nestdotland/.github) - 🦄 Nest Community Health Files
 - [nestdotland/eggs](https://github.com/nestdotland/eggs) - 🥚 Nest&#39;s Multipurpose CLI
 - [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
-- [nestdotland/.github](https://github.com/nestdotland/.github) - 🦄 Nest Community Health Files
 - [nestdotland/deno-import-intellisense](https://github.com/nestdotland/deno-import-intellisense) - Endpoint for Deno&#39;s import intellisense
-- [maximousblk/deno_nightly](https://github.com/maximousblk/deno_nightly) - 🌙 Nightly builds for Deno 🦕
-
 
 ### 🌱 My latest projects
 
@@ -22,7 +21,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 - [maximousblk/status](https://github.com/maximousblk/status) - 📈 Uptime monitor and status page for Maximous Black, powered by @upptime
 
-
 ### 🔨 My recent Pull Requests
 
 - [docs: add `webhooksPath` option for `createNodeMiddleware`](https://github.com/probot/probot/pull/1588) on [probot/probot](https://github.com/probot/probot)
@@ -30,7 +28,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [feat: add offline fallback page](https://github.com/maximousblk/maximousblk.me/pull/182) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [feat: upgrade to nextjs v11](https://github.com/maximousblk/maximousblk.me/pull/123) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [chore(deps): bump std to `0.97.0`](https://github.com/maximousblk/serve/pull/3) on [maximousblk/serve](https://github.com/maximousblk/serve)
-
 
 ### 🔭 Latest releases I've contributed to
 
@@ -40,7 +37,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.2`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.2) - GitHub Action to set up Deno
 - [probot/probot](https://github.com/probot/probot) [`v12.1.1`](https://github.com/probot/probot/releases/tag/v12.1.1) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 
-
 ### ⭐ Recent Stars
 
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
@@ -49,6 +45,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like.
 
+### 📰 Recent Blog Posts
+
+- [Deno for JavaScript Beginners](https://maximousblk.me/posts/deno-for-javascript-beginners)
+- [Brute-forcing websites with Callow](https://maximousblk.me/posts/callow-bruteforce-tool)
+- [Hello World](https://maximousblk.me/posts/hello-world)
 
 ### 📫 How to reach me:
 
