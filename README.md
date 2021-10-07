@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) - GitHub Action to set up Deno
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 - [nestdotland/.github](https://github.com/nestdotland/.github) - 🦄 Nest Community Health Files
 - [nestdotland/eggs](https://github.com/nestdotland/eggs) - 🥚 Nest&#39;s Multipurpose CLI
-- [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
 
 ### 🌱 My latest projects
 
@@ -31,10 +31,10 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`eth0izzle/shhgit/v0.2-70-65351a7`](https://github.com/maximousblk/mill/releases/tag/eth0izzle%2Fshhgit%2Fv0.2-70-65351a7) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.3`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.3) - GitHub Action to set up Deno
 - [nestdotland/eggs](https://github.com/nestdotland/eggs) [`0.3.9`](https://github.com/nestdotland/eggs/releases/tag/0.3.9) - 🥚 Nest&#39;s Multipurpose CLI
 - [maximousblk/deno_nightly](https://github.com/maximousblk/deno_nightly) [`2021.09.12`](https://github.com/maximousblk/deno_nightly/releases/tag/2021.09.12) - 🌙 Nightly builds for Deno 🦕
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`knipferrc/fm/02f3a49`](https://github.com/maximousblk/mill/releases/tag/knipferrc%2Ffm%2F02f3a49) - Set of GitHub Actions for me to build my favorite projects.
 - [probot/probot](https://github.com/probot/probot) [`v12.1.1`](https://github.com/probot/probot/releases/tag/v12.1.1) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 
 ### ⭐ Recent Stars
