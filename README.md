@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [nestdotland/gql](https://github.com/nestdotland/gql) - [WIP] 📡 Nest GraphQL API
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) - GitHub Action to set up Deno
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 - [nestdotland/.github](https://github.com/nestdotland/.github) - 🦄 Nest Community Health Files
-- [nestdotland/eggs](https://github.com/nestdotland/eggs) - 🥚 Nest&#39;s Multipurpose CLI
 
 ### 🌱 My latest projects
 
@@ -23,11 +23,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [feat: use notion as the content source](https://github.com/maximousblk/maximousblk.me/pull/241) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [docs: add `webhooksPath` option for `createNodeMiddleware`](https://github.com/probot/probot/pull/1588) on [probot/probot](https://github.com/probot/probot)
 - [feat: add Stripe related tables and move to using TxIDs](https://github.com/nestdotland/db/pull/11) on [nestdotland/db](https://github.com/nestdotland/db)
 - [feat: add offline fallback page](https://github.com/maximousblk/maximousblk.me/pull/182) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [feat: upgrade to nextjs v11](https://github.com/maximousblk/maximousblk.me/pull/123) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
-- [chore(deps): bump std to `0.97.0`](https://github.com/maximousblk/serve/pull/3) on [maximousblk/serve](https://github.com/maximousblk/serve)
 
 ### 🔭 Latest releases I've contributed to
 
