@@ -40,7 +40,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 ### ⭐ Recent Stars
 
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
-- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system dedicated to managing security-critical permissions checking in your applications. Inspired by Google&#39;s Zanzibar paper.
+- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system for managing security-critical permissions checking. Inspired by Google&#39;s Zanzibar paper.
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants &#43; starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
