@@ -23,11 +23,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [REST API docs](https://github.com/nestdotland/docs/pull/68) on [nestdotland/docs](https://github.com/nestdotland/docs)
 - [feat: use notion as the content source](https://github.com/maximousblk/maximousblk.me/pull/241) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [docs: add `webhooksPath` option for `createNodeMiddleware`](https://github.com/probot/probot/pull/1588) on [probot/probot](https://github.com/probot/probot)
 - [feat: add Stripe related tables and move to using TxIDs](https://github.com/nestdotland/db/pull/11) on [nestdotland/db](https://github.com/nestdotland/db)
 - [feat: add offline fallback page](https://github.com/maximousblk/maximousblk.me/pull/182) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
-- [feat: upgrade to nextjs v11](https://github.com/maximousblk/maximousblk.me/pull/123) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 
 ### 🔭 Latest releases I've contributed to
 
