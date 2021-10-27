@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
+- [nestdotland/cdn](https://github.com/nestdotland/cdn) - [WIP] 🌐 Nest Module CDN
 - [nestdotland/api](https://github.com/nestdotland/api) - [WIP] 🔌 Nest REST API
-- [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 - [nestdotland/ui](https://github.com/nestdotland/ui) - [WIP] 💄 Nest UI Components
-- [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
-- [th8ta/ArConnect](https://github.com/th8ta/ArConnect) - 🦔 Secure wallet management for Arweave
+- [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 
 ### 🌱 My latest projects
 
