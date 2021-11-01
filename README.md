@@ -7,9 +7,9 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [nestdotland/template](https://github.com/nestdotland/template) - 📜 A template repository for nest.land
 - [maximousblk/serve](https://github.com/maximousblk/serve) - A super simple Deno file server
 - [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
-- [nestdotland/template](https://github.com/nestdotland/template) - 📜 A template repository for nest.land
 - [nestdotland/twig](https://github.com/nestdotland/twig) - [WIP] 📦 Nest Module publishing API
 - [nestdotland/roadmap](https://github.com/nestdotland/roadmap) - Roadmap for Nest
 
