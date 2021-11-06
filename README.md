@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [th8ta/ArConnect](https://github.com/th8ta/ArConnect) - 🦔 Secure wallet management for Arweave
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 - [nestdotland/status](https://github.com/nestdotland/status) - 📈 Status Page
-- [maximousblk/serve](https://github.com/maximousblk/serve) - A super simple Deno file server
+- [nestdotland/twig](https://github.com/nestdotland/twig) - [WIP] 📦 Nest Module publishing API
 - [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
-- [nestdotland/template](https://github.com/nestdotland/template) - 📜 A template repository for nest.land
 
 ### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection) - Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML &amp; CSS &amp; Javascript.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
-- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
 
 ### 📰 Recent Blog Posts
 
