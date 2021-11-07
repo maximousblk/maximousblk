@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [nestdotland/template](https://github.com/nestdotland/template) - 📜 A template repository for nest.land
 - [th8ta/ArConnect](https://github.com/th8ta/ArConnect) - 🦔 Secure wallet management for Arweave
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 - [nestdotland/status](https://github.com/nestdotland/status) - 📈 Status Page
 - [nestdotland/twig](https://github.com/nestdotland/twig) - [WIP] 📦 Nest Module publishing API
-- [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
 
 ### 🌱 My latest projects
 
@@ -23,11 +23,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [TEST PR: Feature/nextjs 12](https://github.com/maximousblk/chakra-ui/pull/2) on [maximousblk/chakra-ui](https://github.com/maximousblk/chakra-ui)
+- [TEST PR: Create storybook addon](https://github.com/maximousblk/chakra-ui/pull/1) on [maximousblk/chakra-ui](https://github.com/maximousblk/chakra-ui)
 - [REST API docs](https://github.com/nestdotland/docs/pull/68) on [nestdotland/docs](https://github.com/nestdotland/docs)
 - [feat: use notion as the content source](https://github.com/maximousblk/maximousblk.me/pull/241) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [docs: add `webhooksPath` option for `createNodeMiddleware`](https://github.com/probot/probot/pull/1588) on [probot/probot](https://github.com/probot/probot)
-- [feat: add Stripe related tables and move to using TxIDs](https://github.com/nestdotland/db/pull/11) on [nestdotland/db](https://github.com/nestdotland/db)
-- [feat: add offline fallback page](https://github.com/maximousblk/maximousblk.me/pull/182) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
-- [cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection) - Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML &amp; CSS &amp; Javascript.
-- [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 
 ### 📰 Recent Blog Posts
 
