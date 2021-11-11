@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
+- [nestdotland/cdn](https://github.com/nestdotland/cdn) - [WIP] 🌐 Nest Module CDN
+- [nestdotland/api](https://github.com/nestdotland/api) - [WIP] 🔌 Nest REST API
 - [nestdotland/template](https://github.com/nestdotland/template) - 📜 A template repository for nest.land
 - [th8ta/ArConnect](https://github.com/th8ta/ArConnect) - 🦔 Secure wallet management for Arweave
-- [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
-- [nestdotland/status](https://github.com/nestdotland/status) - 📈 Status Page
-- [nestdotland/twig](https://github.com/nestdotland/twig) - [WIP] 📦 Nest Module publishing API
 
 ### 🌱 My latest projects
 
@@ -19,15 +19,15 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
 - [maximousblk/wave](https://github.com/maximousblk/wave) - Vanity Arweave Wallet Generator
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
-- [maximousblk/status](https://github.com/maximousblk/status) - 📈 Uptime monitor and status page for Maximous Black, powered by @upptime
+- [maximousblk/status](https://github.com/maximousblk/status) - 
 
 ### 🔨 My recent Pull Requests
 
+- [feat(deno): detect `deno.json` and `deno.jsonc`](https://github.com/starship/starship/pull/3220) on [starship/starship](https://github.com/starship/starship)
 - [TEST PR: Feature/nextjs 12](https://github.com/maximousblk/chakra-ui/pull/2) on [maximousblk/chakra-ui](https://github.com/maximousblk/chakra-ui)
 - [TEST PR: Create storybook addon](https://github.com/maximousblk/chakra-ui/pull/1) on [maximousblk/chakra-ui](https://github.com/maximousblk/chakra-ui)
 - [REST API docs](https://github.com/nestdotland/docs/pull/68) on [nestdotland/docs](https://github.com/nestdotland/docs)
 - [feat: use notion as the content source](https://github.com/maximousblk/maximousblk.me/pull/241) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
-- [docs: add `webhooksPath` option for `createNodeMiddleware`](https://github.com/probot/probot/pull/1588) on [probot/probot](https://github.com/probot/probot)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [Miodec/monkeytype](https://github.com/Miodec/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It&#39;s Git for Data
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
-- [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
 ### 📰 Recent Blog Posts
 
