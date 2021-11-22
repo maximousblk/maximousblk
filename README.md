@@ -8,8 +8,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 ### 👷 Check out what I'm currently working on
 
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
-- [nestdotland/api](https://github.com/nestdotland/api) - [WIP] 🔌 Nest REST API
 - [nestdotland/cdn](https://github.com/nestdotland/cdn) - [WIP] 🌐 Nest Module CDN
+- [nestdotland/api](https://github.com/nestdotland/api) - [WIP] 🔌 Nest REST API
 - [nestdotland/template](https://github.com/nestdotland/template) - 📜 A template repository for nest.land
 - [th8ta/ArConnect](https://github.com/th8ta/ArConnect) - 🦔 Secure wallet management for Arweave
 
@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go&#43; language for engineering, STEM education, and data science
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site.
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms Implemented in GoLang
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 
 ### 📰 Recent Blog Posts
 
