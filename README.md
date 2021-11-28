@@ -15,7 +15,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🌱 My latest projects
 
-- [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub Apps with Probot and NextJS.
+- [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
 - [maximousblk/wave](https://github.com/maximousblk/wave) - Vanity Arweave Wallet Generator
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go&#43; language for engineering, STEM education, and data science
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site.
-- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms Implemented in GoLang
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 
 ### 📰 Recent Blog Posts
 
