@@ -31,11 +31,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [probot/probot](https://github.com/probot/probot) [`v12.1.2`](https://github.com/probot/probot/releases/tag/v12.1.2) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [nestdotland/eggs](https://github.com/nestdotland/eggs) [`0.3.10`](https://github.com/nestdotland/eggs/releases/tag/0.3.10) - 🥚 Nest&#39;s Multipurpose CLI
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`eth0izzle/shhgit/v0.2-70-65351a7`](https://github.com/maximousblk/mill/releases/tag/eth0izzle%2Fshhgit%2Fv0.2-70-65351a7) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.3`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.3) - GitHub Action to set up Deno
 - [maximousblk/deno_nightly](https://github.com/maximousblk/deno_nightly) [`2021.09.12`](https://github.com/maximousblk/deno_nightly/releases/tag/2021.09.12) - 🌙 Nightly builds for Deno 🦕
-- [probot/probot](https://github.com/probot/probot) [`v12.1.1`](https://github.com/probot/probot/releases/tag/v12.1.1) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 
 ### ⭐ Recent Stars
 
