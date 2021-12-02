@@ -7,10 +7,10 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
-- [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
-- [nestdotland/cdn](https://github.com/nestdotland/cdn) - [WIP] 🌐 Nest Module CDN
-- [nestdotland/api](https://github.com/nestdotland/api) - [WIP] 🔌 Nest REST API
 - [nestdotland/template](https://github.com/nestdotland/template) - 📜 A template repository for nest.land
+- [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
+- [nestdotland/api](https://github.com/nestdotland/api) - [WIP] 🔌 Nest REST API
+- [nestdotland/cdn](https://github.com/nestdotland/cdn) - [WIP] 🌐 Nest Module CDN
 - [th8ta/ArConnect](https://github.com/th8ta/ArConnect) - 🦔 Secure wallet management for Arweave
 
 ### 🌱 My latest projects
@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go&#43; language for engineering, STEM education, and data science
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
-- [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site.
 
 ### 📰 Recent Blog Posts
 
