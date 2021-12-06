@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [th8ta/ArConnect](https://github.com/th8ta/ArConnect) [`0.4.0`](https://github.com/th8ta/ArConnect/releases/tag/0.4.0) - 🦔 Secure wallet management for Arweave
 - [probot/probot](https://github.com/probot/probot) [`v12.1.2`](https://github.com/probot/probot/releases/tag/v12.1.2) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [nestdotland/eggs](https://github.com/nestdotland/eggs) [`0.3.10`](https://github.com/nestdotland/eggs/releases/tag/0.3.10) - 🥚 Nest&#39;s Multipurpose CLI
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`eth0izzle/shhgit/v0.2-70-65351a7`](https://github.com/maximousblk/mill/releases/tag/eth0izzle%2Fshhgit%2Fv0.2-70-65351a7) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.3`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.3) - GitHub Action to set up Deno
-- [maximousblk/deno_nightly](https://github.com/maximousblk/deno_nightly) [`2021.09.12`](https://github.com/maximousblk/deno_nightly/releases/tag/2021.09.12) - 🌙 Nightly builds for Deno 🦕
 
 ### ⭐ Recent Stars
 
+- [invertase/docs.page](https://github.com/invertase/docs.page) - Instant Open Source docs with zero configuration.
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more. 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35&#43; pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don&#39;t need to remember a passcode
 - [pglet/pglet](https://github.com/pglet/pglet) - Pglet server and client
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ### 📰 Recent Blog Posts
 
