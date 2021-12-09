@@ -31,8 +31,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [probot/probot](https://github.com/probot/probot) [`v12.1.3`](https://github.com/probot/probot/releases/tag/v12.1.3) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [th8ta/ArConnect](https://github.com/th8ta/ArConnect) [`0.4.0`](https://github.com/th8ta/ArConnect/releases/tag/0.4.0) - 🦔 Secure wallet management for Arweave
-- [probot/probot](https://github.com/probot/probot) [`v12.1.2`](https://github.com/probot/probot/releases/tag/v12.1.2) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [nestdotland/eggs](https://github.com/nestdotland/eggs) [`0.3.10`](https://github.com/nestdotland/eggs/releases/tag/0.3.10) - 🥚 Nest&#39;s Multipurpose CLI
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`eth0izzle/shhgit/v0.2-70-65351a7`](https://github.com/maximousblk/mill/releases/tag/eth0izzle%2Fshhgit%2Fv0.2-70-65351a7) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.3`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.3) - GitHub Action to set up Deno
@@ -40,10 +40,10 @@ student and I also love Physics, and want to learn more about how the Universe w
 ### ⭐ Recent Stars
 
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hosted Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [invertase/docs.page](https://github.com/invertase/docs.page) - Instant Open Source docs with zero configuration.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more. 
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35&#43; pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35&#43; pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 
 ### 📰 Recent Blog Posts
 
