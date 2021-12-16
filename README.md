@@ -31,10 +31,10 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`deletescape/countcord/175c709`](https://github.com/maximousblk/mill/releases/tag/deletescape%2Fcountcord%2F175c709) - Set of GitHub Actions for me to build my favorite projects.
 - [probot/probot](https://github.com/probot/probot) [`v12.1.3`](https://github.com/probot/probot/releases/tag/v12.1.3) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [th8ta/ArConnect](https://github.com/th8ta/ArConnect) [`0.4.0`](https://github.com/th8ta/ArConnect/releases/tag/0.4.0) - 🦔 Secure wallet management for Arweave
 - [nestdotland/eggs](https://github.com/nestdotland/eggs) [`0.3.10`](https://github.com/nestdotland/eggs/releases/tag/0.3.10) - 🥚 Nest&#39;s Multipurpose CLI
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`eth0izzle/shhgit/v0.2-70-65351a7`](https://github.com/maximousblk/mill/releases/tag/eth0izzle%2Fshhgit%2Fv0.2-70-65351a7) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.3`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.3) - GitHub Action to set up Deno
 
 ### ⭐ Recent Stars
