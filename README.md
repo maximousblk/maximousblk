@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [nestdotland/docs](https://github.com/nestdotland/docs) - 📖 The documentation for nest.land
 - [nestdotland/template](https://github.com/nestdotland/template) - 📜 A template repository for nest.land
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 - [nestdotland/api](https://github.com/nestdotland/api) - [WIP] 🔌 Nest REST API
-- [nestdotland/cdn](https://github.com/nestdotland/cdn) - [WIP] 🌐 Nest Module CDN
 
 ### 🌱 My latest projects
 
@@ -31,11 +31,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [starship/starship](https://github.com/starship/starship) [`v1.1.1`](https://github.com/starship/starship/releases/tag/v1.1.1) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`deletescape/countcord/175c709`](https://github.com/maximousblk/mill/releases/tag/deletescape%2Fcountcord%2F175c709) - Set of GitHub Actions for me to build my favorite projects.
 - [probot/probot](https://github.com/probot/probot) [`v12.1.3`](https://github.com/probot/probot/releases/tag/v12.1.3) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [th8ta/ArConnect](https://github.com/th8ta/ArConnect) [`0.4.0`](https://github.com/th8ta/ArConnect/releases/tag/0.4.0) - 🦔 Secure wallet management for Arweave
 - [nestdotland/eggs](https://github.com/nestdotland/eggs) [`0.3.10`](https://github.com/nestdotland/eggs/releases/tag/0.3.10) - 🥚 Nest&#39;s Multipurpose CLI
-- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.3`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.3) - GitHub Action to set up Deno
 
 ### ⭐ Recent Stars
 
