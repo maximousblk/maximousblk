@@ -31,7 +31,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.4`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.4) - GitHub Action to set up Deno
+- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.5`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.5) - GitHub Action to set up Deno
 - [starship/starship](https://github.com/starship/starship) [`v1.1.1`](https://github.com/starship/starship/releases/tag/v1.1.1) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`deletescape/countcord/175c709`](https://github.com/maximousblk/mill/releases/tag/deletescape%2Fcountcord%2F175c709) - Set of GitHub Actions for me to build my favorite projects.
 - [probot/probot](https://github.com/probot/probot) [`v12.1.3`](https://github.com/probot/probot/releases/tag/v12.1.3) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
