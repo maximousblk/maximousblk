@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [nestdotland/ui](https://github.com/nestdotland/ui) - [WIP] 💄 Nest UI Components
 - [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) - GitHub Action to set up Deno
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [nestdotland/docs](https://github.com/nestdotland/docs) - 📖 The documentation for nest.land
-- [nestdotland/template](https://github.com/nestdotland/template) - 📜 A template repository for nest.land
 
 ### 🌱 My latest projects
 
