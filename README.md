@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) - Visual Studio Code plugin for Deno
 - [nestdotland/ui](https://github.com/nestdotland/ui) - [WIP] 💄 Nest UI Components
 - [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) - GitHub Action to set up Deno
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [nestdotland/docs](https://github.com/nestdotland/docs) - 📖 The documentation for nest.land
 
 ### 🌱 My latest projects
 
@@ -23,19 +23,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [fix: update nest.land registry](https://github.com/denoland/vscode_deno/pull/602) on [denoland/vscode_deno](https://github.com/denoland/vscode_deno)
 - [ci: add install scripts](https://github.com/three-em/3em/pull/83) on [three-em/3em](https://github.com/three-em/3em)
 - [ci: create release workflow](https://github.com/three-em/3em/pull/75) on [three-em/3em](https://github.com/three-em/3em)
 - [feat(deno): detect `deno.json` and `deno.jsonc`](https://github.com/starship/starship/pull/3220) on [starship/starship](https://github.com/starship/starship)
 - [TEST PR: Feature/nextjs 12](https://github.com/maximousblk/chakra-ui/pull/2) on [maximousblk/chakra-ui](https://github.com/maximousblk/chakra-ui)
-- [TEST PR: Create storybook addon](https://github.com/maximousblk/chakra-ui/pull/1) on [maximousblk/chakra-ui](https://github.com/maximousblk/chakra-ui)
 
 ### 🔭 Latest releases I've contributed to
 
+- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.10.0`](https://github.com/denoland/vscode_deno/releases/tag/3.10.0) - Visual Studio Code plugin for Deno
 - [probot/probot](https://github.com/probot/probot) [`v12.1.4`](https://github.com/probot/probot/releases/tag/v12.1.4) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [three-em/3em](https://github.com/three-em/3em) [`0.1.0`](https://github.com/three-em/3em/releases/tag/0.1.0) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.5`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.5) - GitHub Action to set up Deno
 - [starship/starship](https://github.com/starship/starship) [`v1.1.1`](https://github.com/starship/starship/releases/tag/v1.1.1) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`deletescape/countcord/175c709`](https://github.com/maximousblk/mill/releases/tag/deletescape%2Fcountcord%2F175c709) - Set of GitHub Actions for me to build my favorite projects.
 
 ### ⭐ Recent Stars
 
