@@ -19,7 +19,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
 - [maximousblk/wave](https://github.com/maximousblk/wave) - Vanity Arweave Wallet Generator
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
-- [maximousblk/status](https://github.com/maximousblk/status) - 
+- [maximousblk/verto-cache-test](https://github.com/maximousblk/verto-cache-test) - 
 
 ### 🔨 My recent Pull Requests
 
@@ -31,7 +31,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [starship/starship](https://github.com/starship/starship) [`v1.2.0`](https://github.com/starship/starship/releases/tag/v1.2.0) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [starship/starship](https://github.com/starship/starship) [`v1.2.1`](https://github.com/starship/starship/releases/tag/v1.2.1) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [probot/probot](https://github.com/probot/probot) [`v12.2.0`](https://github.com/probot/probot/releases/tag/v12.2.0) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.10.0`](https://github.com/denoland/vscode_deno/releases/tag/3.10.0) - Visual Studio Code plugin for Deno
 - [three-em/3em](https://github.com/three-em/3em) [`0.1.0`](https://github.com/three-em/3em/releases/tag/0.1.0) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
