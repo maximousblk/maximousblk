@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.10.1`](https://github.com/denoland/vscode_deno/releases/tag/3.10.1) - Visual Studio Code plugin for Deno
 - [starship/starship](https://github.com/starship/starship) [`v1.2.1`](https://github.com/starship/starship/releases/tag/v1.2.1) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [probot/probot](https://github.com/probot/probot) [`v12.2.0`](https://github.com/probot/probot/releases/tag/v12.2.0) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
-- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.10.0`](https://github.com/denoland/vscode_deno/releases/tag/3.10.0) - Visual Studio Code plugin for Deno
 - [three-em/3em](https://github.com/three-em/3em) [`0.1.0`](https://github.com/three-em/3em/releases/tag/0.1.0) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.5`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.5) - GitHub Action to set up Deno
 
 ### ⭐ Recent Stars
 
+- [maxwellito/minimator](https://github.com/maxwellito/minimator) - Minimalist graphical editor
+- [denoland/denobyexample](https://github.com/denoland/denobyexample) - Deno by example - short examples showcasing how to use Deno
+- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master. 
+- [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [notion-enhancer/extension](https://github.com/notion-enhancer/extension) - an enhancer/customiser for the all-in-one productivity workspace notion.so (browser)
-- [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
-- [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
-- [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
-- [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
 ### 📰 Recent Blog Posts
 
