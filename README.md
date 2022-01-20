@@ -31,9 +31,9 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [probot/probot](https://github.com/probot/probot) [`v12.2.1`](https://github.com/probot/probot/releases/tag/v12.2.1) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.10.1`](https://github.com/denoland/vscode_deno/releases/tag/3.10.1) - Visual Studio Code plugin for Deno
 - [starship/starship](https://github.com/starship/starship) [`v1.2.1`](https://github.com/starship/starship/releases/tag/v1.2.1) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [probot/probot](https://github.com/probot/probot) [`v12.2.0`](https://github.com/probot/probot/releases/tag/v12.2.0) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [three-em/3em](https://github.com/three-em/3em) [`0.1.0`](https://github.com/three-em/3em/releases/tag/0.1.0) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.5`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.5) - GitHub Action to set up Deno
 
