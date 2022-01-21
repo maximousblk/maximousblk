@@ -7,9 +7,9 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) - Visual Studio Code plugin for Deno
 - [nestdotland/ui](https://github.com/nestdotland/ui) - [WIP] 💄 Nest UI Components
-- [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) - GitHub Action to set up Deno
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
@@ -23,11 +23,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [ci: refactor ci](https://github.com/three-em/3em/pull/105) on [three-em/3em](https://github.com/three-em/3em)
 - [fix: update nest.land registry](https://github.com/denoland/vscode_deno/pull/602) on [denoland/vscode_deno](https://github.com/denoland/vscode_deno)
 - [ci: add install scripts](https://github.com/three-em/3em/pull/83) on [three-em/3em](https://github.com/three-em/3em)
 - [ci: create release workflow](https://github.com/three-em/3em/pull/75) on [three-em/3em](https://github.com/three-em/3em)
 - [feat(deno): detect `deno.json` and `deno.jsonc`](https://github.com/starship/starship/pull/3220) on [starship/starship](https://github.com/starship/starship)
-- [TEST PR: Feature/nextjs 12](https://github.com/maximousblk/chakra-ui/pull/2) on [maximousblk/chakra-ui](https://github.com/maximousblk/chakra-ui)
 
 ### 🔭 Latest releases I've contributed to
 
