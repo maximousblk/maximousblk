@@ -23,11 +23,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [feat: add option to use browser default font](https://github.com/sharat87/prestige/pull/15) on [sharat87/prestige](https://github.com/sharat87/prestige)
 - [ci: add aarch64 builds](https://github.com/three-em/3em/pull/108) on [three-em/3em](https://github.com/three-em/3em)
 - [ci: refactor ci](https://github.com/three-em/3em/pull/105) on [three-em/3em](https://github.com/three-em/3em)
 - [fix: update nest.land registry](https://github.com/denoland/vscode_deno/pull/602) on [denoland/vscode_deno](https://github.com/denoland/vscode_deno)
 - [ci: add install scripts](https://github.com/three-em/3em/pull/83) on [three-em/3em](https://github.com/three-em/3em)
-- [ci: create release workflow](https://github.com/three-em/3em/pull/75) on [three-em/3em](https://github.com/three-em/3em)
 
 ### 🔭 Latest releases I've contributed to
 
