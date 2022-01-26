@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [cybersecsi/RAUDI](https://github.com/cybersecsi/RAUDI) - A repo to automatically generate and keep updated a series of Docker images through GitHub Actions.
 - [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
 - [rusq/slackdump](https://github.com/rusq/slackdump) - A command line utility to create and save an archive of slack public and private messages and threads, files, and users.
 - [maxwellito/minimator](https://github.com/maxwellito/minimator) - Minimalist graphical editor
-- [denoland/denobyexample](https://github.com/denoland/denobyexample) - Deno by example - short examples showcasing how to use Deno
 
 ### 📰 Recent Blog Posts
 
