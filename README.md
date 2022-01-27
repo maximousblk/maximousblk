@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/astatine](https://github.com/maximousblk/astatine) - A Configurable Automated Profit Sharing Token Distributor.
 - [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) - Visual Studio Code plugin for Deno
 - [nestdotland/ui](https://github.com/nestdotland/ui) - [WIP] 💄 Nest UI Components
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) - GitHub Action to set up Deno
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 ### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [cybersecsi/RAUDI](https://github.com/cybersecsi/RAUDI) - A repo to automatically generate and keep updated a series of Docker images through GitHub Actions.
 - [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
 - [rusq/slackdump](https://github.com/rusq/slackdump) - A command line utility to create and save an archive of slack public and private messages and threads, files, and users.
-- [maxwellito/minimator](https://github.com/maxwellito/minimator) - Minimalist graphical editor
 
 ### 📰 Recent Blog Posts
 
