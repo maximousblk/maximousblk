@@ -7,9 +7,9 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [sharat87/prestige](https://github.com/sharat87/prestige) - A text-based HTTP client in the browser. An interface-less Postman.
 - [maximousblk/astatine](https://github.com/maximousblk/astatine) - A Configurable Automated Profit Sharing Token Distributor.
-- [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) - Visual Studio Code plugin for Deno
 - [nestdotland/ui](https://github.com/nestdotland/ui) - [WIP] 💄 Nest UI Components
 
@@ -23,11 +23,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [add a section for js library](https://github.com/three-em/website/pull/6) on [three-em/website](https://github.com/three-em/website)
 - [ci: add benchmarks](https://github.com/three-em/3em/pull/114) on [three-em/3em](https://github.com/three-em/3em)
 - [feat: add option to use browser default font](https://github.com/sharat87/prestige/pull/15) on [sharat87/prestige](https://github.com/sharat87/prestige)
 - [ci: add aarch64 builds](https://github.com/three-em/3em/pull/108) on [three-em/3em](https://github.com/three-em/3em)
 - [ci: refactor ci](https://github.com/three-em/3em/pull/105) on [three-em/3em](https://github.com/three-em/3em)
-- [fix: update nest.land registry](https://github.com/denoland/vscode_deno/pull/602) on [denoland/vscode_deno](https://github.com/denoland/vscode_deno)
 
 ### 🔭 Latest releases I've contributed to
 
