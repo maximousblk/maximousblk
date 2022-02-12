@@ -7,8 +7,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
-- [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 - [three-em/website](https://github.com/three-em/website) - The 3em website
+- [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 - [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [sharat87/prestige](https://github.com/sharat87/prestige) - A text-based HTTP client in the browser. An interface-less Postman.
 - [maximousblk/astatine](https://github.com/maximousblk/astatine) - A Configurable Automated Profit Sharing Token Distributor.
@@ -23,11 +23,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [ci: refactor napi workflow &#43; misc](https://github.com/three-em/3em/pull/129) on [three-em/3em](https://github.com/three-em/3em)
 - [ci(ship): disable aarch64 builds](https://github.com/three-em/3em/pull/117) on [three-em/3em](https://github.com/three-em/3em)
 - [add a section for js library](https://github.com/three-em/website/pull/6) on [three-em/website](https://github.com/three-em/website)
 - [ci: add benchmarks](https://github.com/three-em/3em/pull/114) on [three-em/3em](https://github.com/three-em/3em)
 - [feat: add option to use browser default font](https://github.com/sharat87/prestige/pull/15) on [sharat87/prestige](https://github.com/sharat87/prestige)
-- [ci: add aarch64 builds](https://github.com/three-em/3em/pull/108) on [three-em/3em](https://github.com/three-em/3em)
 
 ### 🔭 Latest releases I've contributed to
 
