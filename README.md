@@ -7,9 +7,9 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [three-em/website](https://github.com/three-em/website) - The 3em website
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
-- [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [sharat87/prestige](https://github.com/sharat87/prestige) - A text-based HTTP client in the browser. An interface-less Postman.
 - [maximousblk/astatine](https://github.com/maximousblk/astatine) - A Configurable Automated Profit Sharing Token Distributor.
 
