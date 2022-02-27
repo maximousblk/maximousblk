@@ -5,6 +5,14 @@
 I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college
 student and I also love Physics, and want to learn more about how the Universe works.
 
+<p align="center">
+  <br/>
+  <a href="https://gist.github.com/57dc8bfa83121797ac9b5372b3c874d5">
+    <img src="https://gist.github.com/raw/57dc8bfa83121797ac9b5372b3c874d5/banner.svg" width="800"/>
+  </a>
+  <br/>
+</p>
+
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
