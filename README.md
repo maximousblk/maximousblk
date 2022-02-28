@@ -17,9 +17,9 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 - [nestdotland/docs](https://github.com/nestdotland/docs) - 📖 The documentation for nest.land
 - [nestdotland/api](https://github.com/nestdotland/api) - [WIP] 🔌 Nest REST API
-- [nestdotland/cdn](https://github.com/nestdotland/cdn) - [WIP] 🌐 Nest Module CDN
 - [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
 - [maximousblk/tools](https://github.com/maximousblk/tools) - simple useful tools and scripts
+- [nestdotland/cdn](https://github.com/nestdotland/cdn) - [WIP] 🌐 Nest Module CDN
 
 ### 🌱 My latest projects
 
