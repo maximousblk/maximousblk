@@ -18,8 +18,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [nestdotland/ui](https://github.com/nestdotland/ui) - [WIP] 💄 Nest UI Components
 - [nestdotland/docs](https://github.com/nestdotland/docs) - 📖 The documentation for nest.land
 - [nestdotland/api](https://github.com/nestdotland/api) - [WIP] 🔌 Nest REST API
-- [maximousblk/tools](https://github.com/maximousblk/tools) - simple useful tools and scripts
 - [nestdotland/cdn](https://github.com/nestdotland/cdn) - [WIP] 🌐 Nest Module CDN
+- [maximousblk/tools](https://github.com/maximousblk/tools) - simple useful tools and scripts
 
 ### 🌱 My latest projects
 
@@ -47,11 +47,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [bigb0sss/RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) - Tools &amp; Interesting Things for RedTeam Ops
-- [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
 
 ### 📰 Recent Blog Posts
 
