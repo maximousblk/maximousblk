@@ -15,10 +15,10 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
 - [nestdotland/ui](https://github.com/nestdotland/ui) - [WIP] 💄 Nest UI Components
 - [nestdotland/docs](https://github.com/nestdotland/docs) - 📖 The documentation for nest.land
 - [nestdotland/api](https://github.com/nestdotland/api) - [WIP] 🔌 Nest REST API
-- [nestdotland/cdn](https://github.com/nestdotland/cdn) - [WIP] 🌐 Nest Module CDN
 - [maximousblk/tools](https://github.com/maximousblk/tools) - simple useful tools and scripts
 
 ### 🌱 My latest projects
@@ -39,10 +39,10 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [probot/probot](https://github.com/probot/probot) [`v12.2.2`](https://github.com/probot/probot/releases/tag/v12.2.2) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.3`](https://github.com/calcom/cal.com/releases/tag/v1.3) - Scheduling infrastructure for absolutely everyone.
 - [starship/starship](https://github.com/starship/starship) [`v1.3.0`](https://github.com/starship/starship/releases/tag/v1.3.0) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [three-em/3em](https://github.com/three-em/3em) [`0.2.1`](https://github.com/three-em/3em/releases/tag/0.2.1) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
-- [probot/probot](https://github.com/probot/probot) [`v12.2.1`](https://github.com/probot/probot/releases/tag/v12.2.1) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.10.1`](https://github.com/denoland/vscode_deno/releases/tag/3.10.1) - Visual Studio Code plugin for Deno
 
 ### ⭐ Recent Stars
