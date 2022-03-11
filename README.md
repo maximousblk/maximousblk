@@ -39,7 +39,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [starship/starship](https://github.com/starship/starship) [`v1.4.1`](https://github.com/starship/starship/releases/tag/v1.4.1) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [starship/starship](https://github.com/starship/starship) [`v1.4.2`](https://github.com/starship/starship/releases/tag/v1.4.2) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [probot/probot](https://github.com/probot/probot) [`v12.2.2`](https://github.com/probot/probot/releases/tag/v12.2.2) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.3`](https://github.com/calcom/cal.com/releases/tag/v1.3) - Scheduling infrastructure for absolutely everyone.
 - [three-em/3em](https://github.com/three-em/3em) [`0.2.1`](https://github.com/three-em/3em/releases/tag/0.2.1) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
@@ -47,11 +47,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 
 ### 📰 Recent Blog Posts
 
