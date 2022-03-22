@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.11.0`](https://github.com/denoland/vscode_deno/releases/tag/3.11.0) - Visual Studio Code plugin for Deno
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.4`](https://github.com/calcom/cal.com/releases/tag/v1.4) - Scheduling infrastructure for absolutely everyone.
 - [starship/starship](https://github.com/starship/starship) [`v1.4.2`](https://github.com/starship/starship/releases/tag/v1.4.2) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [probot/probot](https://github.com/probot/probot) [`v12.2.2`](https://github.com/probot/probot/releases/tag/v12.2.2) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [three-em/3em](https://github.com/three-em/3em) [`0.2.1`](https://github.com/three-em/3em/releases/tag/0.2.1) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
-- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.10.1`](https://github.com/denoland/vscode_deno/releases/tag/3.10.1) - Visual Studio Code plugin for Deno
 
 ### ⭐ Recent Stars
 
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker&#39;s power-browser.
 - [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 
 ### 📰 Recent Blog Posts
 
