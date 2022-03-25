@@ -23,27 +23,27 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [feat: new landing page](https://github.com/useverto/interface/pull/9) on [useverto/interface](https://github.com/useverto/interface)
 - [fix: prisma schema directory in heroku config](https://github.com/calcom/cal.com/pull/1872) on [calcom/cal.com](https://github.com/calcom/cal.com)
 - [ci: refactor napi workflow &#43; misc](https://github.com/three-em/3em/pull/129) on [three-em/3em](https://github.com/three-em/3em)
 - [ci(ship): disable aarch64 builds](https://github.com/three-em/3em/pull/117) on [three-em/3em](https://github.com/three-em/3em)
 - [add a section for js library](https://github.com/three-em/website/pull/6) on [three-em/website](https://github.com/three-em/website)
-- [ci: add benchmarks](https://github.com/three-em/3em/pull/114) on [three-em/3em](https://github.com/three-em/3em)
 
 ### 🔭 Latest releases I've contributed to
 
+- [starship/starship](https://github.com/starship/starship) [`v1.5.4`](https://github.com/starship/starship/releases/tag/v1.5.4) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.11.0`](https://github.com/denoland/vscode_deno/releases/tag/3.11.0) - Visual Studio Code plugin for Deno
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.4`](https://github.com/calcom/cal.com/releases/tag/v1.4) - Scheduling infrastructure for absolutely everyone.
-- [starship/starship](https://github.com/starship/starship) [`v1.4.2`](https://github.com/starship/starship/releases/tag/v1.4.2) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [probot/probot](https://github.com/probot/probot) [`v12.2.2`](https://github.com/probot/probot/releases/tag/v12.2.2) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [three-em/3em](https://github.com/three-em/3em) [`0.2.1`](https://github.com/three-em/3em/releases/tag/0.2.1) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 
 ### ⭐ Recent Stars
 
+- [mukul500/AnimeXStream](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito 
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 
 ### 📰 Recent Blog Posts
 
