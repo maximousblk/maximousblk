@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 - [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
 - [nestdotland/ui](https://github.com/nestdotland/ui) - [WIP] 💄 Nest UI Components
 - [nestdotland/docs](https://github.com/nestdotland/docs) - 📖 The documentation for nest.land
-- [nestdotland/api](https://github.com/nestdotland/api) - [WIP] 🔌 Nest REST API
 
 ### 🌱 My latest projects
 
@@ -31,11 +31,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`zee-editor/zee/c2c943f`](https://github.com/maximousblk/mill/releases/tag/zee-editor%2Fzee%2Fc2c943f) - Set of GitHub Actions for me to build my favorite projects.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.12.0`](https://github.com/denoland/vscode_deno/releases/tag/3.12.0) - Visual Studio Code plugin for Deno
 - [starship/starship](https://github.com/starship/starship) [`v1.5.4`](https://github.com/starship/starship/releases/tag/v1.5.4) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.4`](https://github.com/calcom/cal.com/releases/tag/v1.4) - Scheduling infrastructure for absolutely everyone.
 - [probot/probot](https://github.com/probot/probot) [`v12.2.2`](https://github.com/probot/probot/releases/tag/v12.2.2) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
-- [three-em/3em](https://github.com/three-em/3em) [`0.2.1`](https://github.com/three-em/3em/releases/tag/0.2.1) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 
 ### ⭐ Recent Stars
 
