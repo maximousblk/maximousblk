@@ -7,8 +7,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
-- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
+- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
 - [nestdotland/ui](https://github.com/nestdotland/ui) - [WIP] 💄 Nest UI Components
 - [nestdotland/docs](https://github.com/nestdotland/docs) - 📖 The documentation for nest.land
