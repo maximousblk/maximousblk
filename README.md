@@ -23,11 +23,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): bump @jitl/notion-api from 0.1.2 to 0.2.1](https://github.com/maximousblk/maximousblk.me/pull/406) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
+- [Revert &#34;chore(deps): bump @jitl/notion-api from 0.1.2 to 0.2.1&#34;](https://github.com/maximousblk/maximousblk.me/pull/405) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
+- [fix: remove space between first and last item](https://github.com/justin-chu/react-fast-marquee/pull/37) on [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee)
 - [feat: new landing page](https://github.com/useverto/interface/pull/9) on [useverto/interface](https://github.com/useverto/interface)
 - [fix: prisma schema directory in heroku config](https://github.com/calcom/cal.com/pull/1872) on [calcom/cal.com](https://github.com/calcom/cal.com)
-- [ci: refactor napi workflow &#43; misc](https://github.com/three-em/3em/pull/129) on [three-em/3em](https://github.com/three-em/3em)
-- [ci(ship): disable aarch64 builds](https://github.com/three-em/3em/pull/117) on [three-em/3em](https://github.com/three-em/3em)
-- [add a section for js library](https://github.com/three-em/website/pull/6) on [three-em/website](https://github.com/three-em/website)
 
 ### 🔭 Latest releases I've contributed to
 
