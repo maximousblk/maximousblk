@@ -31,10 +31,10 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [starship/starship](https://github.com/starship/starship) [`v1.6.2`](https://github.com/starship/starship/releases/tag/v1.6.2) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`V1.5`](https://github.com/calcom/cal.com/releases/tag/V1.5) - Scheduling infrastructure for absolutely everyone.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`zee-editor/zee/c2c943f`](https://github.com/maximousblk/mill/releases/tag/zee-editor%2Fzee%2Fc2c943f) - Set of GitHub Actions for me to build my favorite projects.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.12.0`](https://github.com/denoland/vscode_deno/releases/tag/3.12.0) - Visual Studio Code plugin for Deno
-- [starship/starship](https://github.com/starship/starship) [`v1.5.4`](https://github.com/starship/starship/releases/tag/v1.5.4) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.4`](https://github.com/calcom/cal.com/releases/tag/v1.4) - Scheduling infrastructure for absolutely everyone.
 - [probot/probot](https://github.com/probot/probot) [`v12.2.2`](https://github.com/probot/probot/releases/tag/v12.2.2) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 
 ### ⭐ Recent Stars
