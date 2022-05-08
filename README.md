@@ -7,8 +7,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
-- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
+- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
 - [nestdotland/ui](https://github.com/nestdotland/ui) - [WIP] 💄 Nest UI Components
 - [nestdotland/docs](https://github.com/nestdotland/docs) - 📖 The documentation for nest.land
@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2022)
 
 ### 📰 Recent Blog Posts
 
