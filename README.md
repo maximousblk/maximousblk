@@ -31,9 +31,9 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.6.1`](https://github.com/calcom/cal.com/releases/tag/v1.6.1) - Scheduling infrastructure for absolutely everyone.
 - [starship/starship](https://github.com/starship/starship) [`v1.6.3`](https://github.com/starship/starship/releases/tag/v1.6.3) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [three-em/3em](https://github.com/three-em/3em) [`0.2.9`](https://github.com/three-em/3em/releases/tag/0.2.9) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`V1.5`](https://github.com/calcom/cal.com/releases/tag/V1.5) - Scheduling infrastructure for absolutely everyone.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`zee-editor/zee/c2c943f`](https://github.com/maximousblk/mill/releases/tag/zee-editor%2Fzee%2Fc2c943f) - Set of GitHub Actions for me to build my favorite projects.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.12.0`](https://github.com/denoland/vscode_deno/releases/tag/3.12.0) - Visual Studio Code plugin for Deno
 
