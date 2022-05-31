@@ -31,9 +31,9 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.6.2`](https://github.com/calcom/cal.com/releases/tag/v1.6.2) - Scheduling infrastructure for absolutely everyone.
 - [probot/probot](https://github.com/probot/probot) [`v12.2.3`](https://github.com/probot/probot/releases/tag/v12.2.3) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [starship/starship](https://github.com/starship/starship) [`v1.7.1`](https://github.com/starship/starship/releases/tag/v1.7.1) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.6.1`](https://github.com/calcom/cal.com/releases/tag/v1.6.1) - Scheduling infrastructure for absolutely everyone.
 - [three-em/3em](https://github.com/three-em/3em) [`0.2.9`](https://github.com/three-em/3em/releases/tag/0.2.9) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`zee-editor/zee/c2c943f`](https://github.com/maximousblk/mill/releases/tag/zee-editor%2Fzee%2Fc2c943f) - Set of GitHub Actions for me to build my favorite projects.
 
