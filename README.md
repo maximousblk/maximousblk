@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) - GitHub Action to set up Deno
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 - [labscommunity/landing](https://github.com/labscommunity/landing) - 
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
-- [nestdotland/ui](https://github.com/nestdotland/ui) - [WIP] 💄 Nest UI Components
 
 ### 🌱 My latest projects
 
@@ -31,11 +31,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.6`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.6) - GitHub Action to set up Deno
 - [probot/probot](https://github.com/probot/probot) [`v12.2.4`](https://github.com/probot/probot/releases/tag/v12.2.4) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.6.2`](https://github.com/calcom/cal.com/releases/tag/v1.6.2) - Scheduling infrastructure for absolutely everyone.
 - [starship/starship](https://github.com/starship/starship) [`v1.7.1`](https://github.com/starship/starship/releases/tag/v1.7.1) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [three-em/3em](https://github.com/three-em/3em) [`0.2.9`](https://github.com/three-em/3em/releases/tag/0.2.9) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`zee-editor/zee/c2c943f`](https://github.com/maximousblk/mill/releases/tag/zee-editor%2Fzee%2Fc2c943f) - Set of GitHub Actions for me to build my favorite projects.
 
 ### ⭐ Recent Stars
 
