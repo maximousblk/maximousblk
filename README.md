@@ -31,7 +31,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [three-em/3em](https://github.com/three-em/3em) [`v0.3.0`](https://github.com/three-em/3em/releases/tag/v0.3.0) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
+- [three-em/3em](https://github.com/three-em/3em) [`0.3.0`](https://github.com/three-em/3em/releases/tag/0.3.0) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.6.3`](https://github.com/calcom/cal.com/releases/tag/v1.6.3) - Scheduling infrastructure for absolutely everyone.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.6`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.6) - GitHub Action to set up Deno
 - [probot/probot](https://github.com/probot/probot) [`v12.2.4`](https://github.com/probot/probot/releases/tag/v12.2.4) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
