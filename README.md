@@ -31,7 +31,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.7.1`](https://github.com/calcom/cal.com/releases/tag/v1.7.1) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.7.2`](https://github.com/calcom/cal.com/releases/tag/v1.7.2) - Scheduling infrastructure for absolutely everyone.
 - [starship/starship](https://github.com/starship/starship) [`v1.8.0`](https://github.com/starship/starship/releases/tag/v1.8.0) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.0`](https://github.com/three-em/3em/releases/tag/0.3.0) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.6`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.6) - GitHub Action to set up Deno
