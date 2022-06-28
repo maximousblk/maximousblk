@@ -31,11 +31,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.7.2`](https://github.com/calcom/cal.com/releases/tag/v1.7.2) - Scheduling infrastructure for absolutely everyone.
-- [starship/starship](https://github.com/starship/starship) [`v1.8.0`](https://github.com/starship/starship/releases/tag/v1.8.0) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.7.3`](https://github.com/calcom/cal.com/releases/tag/v1.7.3) - Scheduling infrastructure for absolutely everyone.
+- [starship/starship](https://github.com/starship/starship) [`v1.9.1`](https://github.com/starship/starship/releases/tag/v1.9.1) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.13.0`](https://github.com/denoland/vscode_deno/releases/tag/3.13.0) - Visual Studio Code plugin for Deno
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.0`](https://github.com/three-em/3em/releases/tag/0.3.0) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v1.1.6`](https://github.com/maximousblk/setup-deno/releases/tag/v1.1.6) - GitHub Action to set up Deno
-- [probot/probot](https://github.com/probot/probot) [`v12.2.4`](https://github.com/probot/probot/releases/tag/v12.2.4) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 
 ### ⭐ Recent Stars
 
