@@ -7,8 +7,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
-- [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) - GitHub Action to set up Deno
+- [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 - [labscommunity/landing](https://github.com/labscommunity/landing) - 
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [nestdotland/db](https://github.com/nestdotland/db) - [WIP] 🗄️ Nest DB migrations
@@ -31,11 +31,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v2.0.0`](https://github.com/maximousblk/setup-deno/releases/tag/v2.0.0) - GitHub Action to set up Deno
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.4`](https://github.com/three-em/3em/releases/tag/0.3.4) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [probot/probot](https://github.com/probot/probot) [`v12.2.5`](https://github.com/probot/probot/releases/tag/v12.2.5) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.7.5`](https://github.com/calcom/cal.com/releases/tag/v1.7.5) - Scheduling infrastructure for absolutely everyone.
 - [starship/starship](https://github.com/starship/starship) [`v1.9.1`](https://github.com/starship/starship/releases/tag/v1.9.1) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.13.0`](https://github.com/denoland/vscode_deno/releases/tag/3.13.0) - Visual Studio Code plugin for Deno
 
 ### ⭐ Recent Stars
 
