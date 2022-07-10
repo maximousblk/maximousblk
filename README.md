@@ -7,19 +7,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - doesn&#39;t work yet...
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) - GitHub Action to set up Deno
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
-- [labscommunity/landing](https://github.com/labscommunity/landing) - 
 
 ### 🌱 My latest projects
 
+- [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - doesn&#39;t work yet...
 - [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
 - [maximousblk/wave](https://github.com/maximousblk/wave) - Vanity Arweave Wallet Generator
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
-- [maximousblk/verto-cache-test](https://github.com/maximousblk/verto-cache-test) - 
 
 ### 🔨 My recent Pull Requests
 
@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
-- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 
 ### 📰 Recent Blog Posts
 
