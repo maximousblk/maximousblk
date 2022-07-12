@@ -18,7 +18,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - doesn&#39;t work yet...
 - [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
-- [maximousblk/wave](https://github.com/maximousblk/wave) - Vanity Arweave Wallet Generator
+- [maximousblk/wave.go](https://github.com/maximousblk/wave.go) - Vanity Arweave Wallet Generator
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 
 ### 🔨 My recent Pull Requests
