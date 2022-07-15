@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [three-em/3em](https://github.com/three-em/3em) [`0.3.7`](https://github.com/three-em/3em/releases/tag/0.3.7) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.7.7`](https://github.com/calcom/cal.com/releases/tag/v1.7.7) - Scheduling infrastructure for absolutely everyone.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`0x192/universal-android-debloater/b3c23ce`](https://github.com/maximousblk/mill/releases/tag/0x192%2Funiversal-android-debloater%2Fb3c23ce) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v2.0.0`](https://github.com/maximousblk/setup-deno/releases/tag/v2.0.0) - GitHub Action to set up Deno
-- [three-em/3em](https://github.com/three-em/3em) [`0.3.4`](https://github.com/three-em/3em/releases/tag/0.3.4) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [probot/probot](https://github.com/probot/probot) [`v12.2.5`](https://github.com/probot/probot/releases/tag/v12.2.5) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 
 ### ⭐ Recent Stars
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic &#34;shebang interpreter&#34; that enables you to write scripts in compiled languages.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
-- [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 
 ### 📰 Recent Blog Posts
 
