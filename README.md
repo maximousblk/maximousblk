@@ -7,8 +7,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
-- [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) - A command line application to interact with EXM
 - [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - doesn&#39;t work yet...
+- [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) - A command line application to interact with EXM
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) - GitHub Action to set up Deno
@@ -31,9 +31,9 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.8.1`](https://github.com/calcom/cal.com/releases/tag/v1.8.1) - Scheduling infrastructure for absolutely everyone.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.1`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.1) - A command line application to interact with EXM
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.8`](https://github.com/three-em/3em/releases/tag/0.3.8) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.8.0`](https://github.com/calcom/cal.com/releases/tag/v1.8.0) - Scheduling infrastructure for absolutely everyone.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`0x192/universal-android-debloater/b3c23ce`](https://github.com/maximousblk/mill/releases/tag/0x192%2Funiversal-android-debloater%2Fb3c23ce) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v2.0.0`](https://github.com/maximousblk/setup-deno/releases/tag/v2.0.0) - GitHub Action to set up Deno
 
