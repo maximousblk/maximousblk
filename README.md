@@ -31,10 +31,10 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`zethra/cinder/7da038e`](https://github.com/maximousblk/mill/releases/tag/zethra%2Fcinder%2F7da038e) - Set of GitHub Actions for me to build my favorite projects.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.8.1`](https://github.com/calcom/cal.com/releases/tag/v1.8.1) - Scheduling infrastructure for absolutely everyone.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.1`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.1) - A command line application to interact with EXM
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.8`](https://github.com/three-em/3em/releases/tag/0.3.8) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`0x192/universal-android-debloater/b3c23ce`](https://github.com/maximousblk/mill/releases/tag/0x192%2Funiversal-android-debloater%2Fb3c23ce) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v2.0.0`](https://github.com/maximousblk/setup-deno/releases/tag/v2.0.0) - GitHub Action to set up Deno
 
 ### ⭐ Recent Stars
