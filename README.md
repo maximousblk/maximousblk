@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
+- [nedlir/OfficerBreaker](https://github.com/nedlir/OfficerBreaker) - OOXML password remover
+- [vysecurity/LinkedInt](https://github.com/vysecurity/LinkedInt) - LinkedIn Recon Tool
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic &#34;shebang interpreter&#34; that enables you to write scripts in compiled languages.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 
 ### 📰 Recent Blog Posts
 
