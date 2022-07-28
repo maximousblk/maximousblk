@@ -31,7 +31,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.8.2`](https://github.com/calcom/cal.com/releases/tag/v1.8.2) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.8.3`](https://github.com/calcom/cal.com/releases/tag/v1.8.3) - Scheduling infrastructure for absolutely everyone.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.13.1`](https://github.com/denoland/vscode_deno/releases/tag/3.13.1) - Visual Studio Code plugin for Deno
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`zethra/cinder/7da038e`](https://github.com/maximousblk/mill/releases/tag/zethra%2Fcinder%2F7da038e) - Set of GitHub Actions for me to build my favorite projects.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.1`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.1) - A command line application to interact with EXM
