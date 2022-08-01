@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [ashwinky/intro_to_git](https://github.com/ashwinky/intro_to_git) - 
 - [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - doesn&#39;t work yet...
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) - A command line application to interact with EXM
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
-- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) - GitHub Action to set up Deno
 
 ### 🌱 My latest projects
 
@@ -23,11 +23,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [change h1 to h2](https://github.com/ashwinky/intro_to_git/pull/1) on [ashwinky/intro_to_git](https://github.com/ashwinky/intro_to_git)
 - [chore(deps): bump @jitl/notion-api from 0.1.2 to 0.2.1](https://github.com/maximousblk/maximousblk.me/pull/406) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [Revert &#34;chore(deps): bump @jitl/notion-api from 0.1.2 to 0.2.1&#34;](https://github.com/maximousblk/maximousblk.me/pull/405) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [fix: remove space between first and last item](https://github.com/justin-chu/react-fast-marquee/pull/37) on [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee)
 - [feat: new landing page](https://github.com/useverto/interface/pull/9) on [useverto/interface](https://github.com/useverto/interface)
-- [fix: prisma schema directory in heroku config](https://github.com/calcom/cal.com/pull/1872) on [calcom/cal.com](https://github.com/calcom/cal.com)
 
 ### 🔭 Latest releases I've contributed to
 
