@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`0x192/universal-android-debloater/21732da`](https://github.com/maximousblk/mill/releases/tag/0x192%2Funiversal-android-debloater%2F21732da) - Set of GitHub Actions for me to build my favorite projects.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.8.4`](https://github.com/calcom/cal.com/releases/tag/v1.8.4) - Scheduling infrastructure for absolutely everyone.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.13.1`](https://github.com/denoland/vscode_deno/releases/tag/3.13.1) - Visual Studio Code plugin for Deno
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`zethra/cinder/7da038e`](https://github.com/maximousblk/mill/releases/tag/zethra%2Fcinder%2F7da038e) - Set of GitHub Actions for me to build my favorite projects.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.1`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.1) - A command line application to interact with EXM
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v2.0.0`](https://github.com/maximousblk/setup-deno/releases/tag/v2.0.0) - GitHub Action to set up Deno
 
 ### ⭐ Recent Stars
 
+- [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The &#34;Activate Windows&#34; watermark ported to Linux
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 
 ### 📰 Recent Blog Posts
 
