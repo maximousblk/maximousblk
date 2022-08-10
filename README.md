@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`0x192/universal-android-debloater/21732da`](https://github.com/maximousblk/mill/releases/tag/0x192%2Funiversal-android-debloater%2F21732da) - Set of GitHub Actions for me to build my favorite projects.
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.8.4`](https://github.com/calcom/cal.com/releases/tag/v1.8.4) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.8.5`](https://github.com/calcom/cal.com/releases/tag/v1.8.5) - Scheduling infrastructure for absolutely everyone.
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`ndd7xv/heh/c8b9fdd`](https://github.com/maximousblk/mill/releases/tag/ndd7xv%2Fheh%2Fc8b9fdd) - Set of GitHub Actions for me to build my favorite projects.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.13.1`](https://github.com/denoland/vscode_deno/releases/tag/3.13.1) - Visual Studio Code plugin for Deno
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.1`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.1) - A command line application to interact with EXM
 - [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v2.0.0`](https://github.com/maximousblk/setup-deno/releases/tag/v2.0.0) - GitHub Action to set up Deno
 
 ### ⭐ Recent Stars
 
+- [ndd7xv/heh](https://github.com/ndd7xv/heh) - A terminal UI to edit bytes by the nibble.
+- [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [eu/join](https://github.com/eu/join) - 
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
-- [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 
 ### 📰 Recent Blog Posts
 
