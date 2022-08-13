@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [r3nt0n/bopscrk](https://github.com/r3nt0n/bopscrk) - Tool to generate smart and powerful wordlists
 - [ndd7xv/heh](https://github.com/ndd7xv/heh) - A terminal UI to edit bytes by the nibble.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [eu/join](https://github.com/eu/join) - 
 
 ### 📰 Recent Blog Posts
 
