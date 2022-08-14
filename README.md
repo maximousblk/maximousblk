@@ -23,11 +23,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [fix(list_array): fix overflow check](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1983) on [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [change h1 to h2](https://github.com/ashwinky/intro_to_git/pull/1) on [ashwinky/intro_to_git](https://github.com/ashwinky/intro_to_git)
 - [chore(deps): bump @jitl/notion-api from 0.1.2 to 0.2.1](https://github.com/maximousblk/maximousblk.me/pull/406) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [Revert &#34;chore(deps): bump @jitl/notion-api from 0.1.2 to 0.2.1&#34;](https://github.com/maximousblk/maximousblk.me/pull/405) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [fix: remove space between first and last item](https://github.com/justin-chu/react-fast-marquee/pull/37) on [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee)
-- [feat: new landing page](https://github.com/useverto/interface/pull/9) on [useverto/interface](https://github.com/useverto/interface)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [r3nt0n/bopscrk](https://github.com/r3nt0n/bopscrk) - Tool to generate smart and powerful wordlists
 - [ndd7xv/heh](https://github.com/ndd7xv/heh) - A terminal UI to edit bytes by the nibble.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 
 ### 📰 Recent Blog Posts
 
