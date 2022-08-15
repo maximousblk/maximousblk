@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [starship/starship](https://github.com/starship/starship) [`v1.10.0`](https://github.com/starship/starship/releases/tag/v1.10.0) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`ajeetdsouza/zoxide/b38b89e`](https://github.com/maximousblk/mill/releases/tag/ajeetdsouza%2Fzoxide%2Fb38b89e) - Set of GitHub Actions for me to build my favorite projects.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.8.5`](https://github.com/calcom/cal.com/releases/tag/v1.8.5) - Scheduling infrastructure for absolutely everyone.
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`ndd7xv/heh/c8b9fdd`](https://github.com/maximousblk/mill/releases/tag/ndd7xv%2Fheh%2Fc8b9fdd) - Set of GitHub Actions for me to build my favorite projects.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.13.1`](https://github.com/denoland/vscode_deno/releases/tag/3.13.1) - Visual Studio Code plugin for Deno
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.1`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.1) - A command line application to interact with EXM
-- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v2.0.0`](https://github.com/maximousblk/setup-deno/releases/tag/v2.0.0) - GitHub Action to set up Deno
 
 ### ⭐ Recent Stars
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+- [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [r3nt0n/bopscrk](https://github.com/r3nt0n/bopscrk) - Tool to generate smart and powerful wordlists
 - [ndd7xv/heh](https://github.com/ndd7xv/heh) - A terminal UI to edit bytes by the nibble.
-- [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
 ### 📰 Recent Blog Posts
 
