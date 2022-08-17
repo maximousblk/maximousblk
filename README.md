@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`trimental/inlyne/acff942`](https://github.com/maximousblk/mill/releases/tag/trimental%2Finlyne%2Facff942) - Set of GitHub Actions for me to build my favorite projects.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.9.0`](https://github.com/calcom/cal.com/releases/tag/v1.9.0) - Scheduling infrastructure for absolutely everyone.
 - [starship/starship](https://github.com/starship/starship) [`v1.10.1`](https://github.com/starship/starship/releases/tag/v1.10.1) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`ajeetdsouza/zoxide/b38b89e`](https://github.com/maximousblk/mill/releases/tag/ajeetdsouza%2Fzoxide%2Fb38b89e) - Set of GitHub Actions for me to build my favorite projects.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.13.1`](https://github.com/denoland/vscode_deno/releases/tag/3.13.1) - Visual Studio Code plugin for Deno
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.1`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.1) - A command line application to interact with EXM
 
 ### ⭐ Recent Stars
 
+- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+- [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) - Brute-Forcing from Nmap output - Automatically attempts default creds on found services.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [r3nt0n/bopscrk](https://github.com/r3nt0n/bopscrk) - Tool to generate smart and powerful wordlists
-- [ndd7xv/heh](https://github.com/ndd7xv/heh) - A terminal UI to edit bytes by the nibble.
 
 ### 📰 Recent Blog Posts
 
