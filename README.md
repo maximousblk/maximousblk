@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.9.1`](https://github.com/calcom/cal.com/releases/tag/v1.9.1) - Scheduling infrastructure for absolutely everyone.
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.10`](https://github.com/three-em/3em/releases/tag/0.3.10) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [starship/starship](https://github.com/starship/starship) [`v1.10.2`](https://github.com/starship/starship/releases/tag/v1.10.2) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`denisidoro/navi/9d86234`](https://github.com/maximousblk/mill/releases/tag/denisidoro%2Fnavi%2F9d86234) - Set of GitHub Actions for me to build my favorite projects.
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.9.0`](https://github.com/calcom/cal.com/releases/tag/v1.9.0) - Scheduling infrastructure for absolutely everyone.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.13.1`](https://github.com/denoland/vscode_deno/releases/tag/3.13.1) - Visual Studio Code plugin for Deno
 
 ### ⭐ Recent Stars
 
+- [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browsless tool to help you quickly view markdown files in the blink of an eye.
+- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) - Brute-Forcing from Nmap output - Automatically attempts default creds on found services.
 
 ### 📰 Recent Blog Posts
 
