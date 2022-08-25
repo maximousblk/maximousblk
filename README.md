@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [three-em/3em](https://github.com/three-em/3em) [`0.3.11`](https://github.com/three-em/3em/releases/tag/0.3.11) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.9.1`](https://github.com/calcom/cal.com/releases/tag/v1.9.1) - Scheduling infrastructure for absolutely everyone.
-- [three-em/3em](https://github.com/three-em/3em) [`0.3.10`](https://github.com/three-em/3em/releases/tag/0.3.10) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [starship/starship](https://github.com/starship/starship) [`v1.10.2`](https://github.com/starship/starship/releases/tag/v1.10.2) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`denisidoro/navi/9d86234`](https://github.com/maximousblk/mill/releases/tag/denisidoro%2Fnavi%2F9d86234) - Set of GitHub Actions for me to build my favorite projects.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.13.1`](https://github.com/denoland/vscode_deno/releases/tag/3.13.1) - Visual Studio Code plugin for Deno
 
 ### ⭐ Recent Stars
 
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
+- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don&#39;t have a broken hiring process
 - [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browsless tool to help you quickly view markdown files in the blink of an eye.
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 
 ### 📰 Recent Blog Posts
 
