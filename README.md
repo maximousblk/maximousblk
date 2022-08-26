@@ -31,7 +31,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [three-em/3em](https://github.com/three-em/3em) [`0.3.11`](https://github.com/three-em/3em/releases/tag/0.3.11) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
+- [three-em/3em](https://github.com/three-em/3em) [`0.3.12`](https://github.com/three-em/3em/releases/tag/0.3.12) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.9.1`](https://github.com/calcom/cal.com/releases/tag/v1.9.1) - Scheduling infrastructure for absolutely everyone.
 - [starship/starship](https://github.com/starship/starship) [`v1.10.2`](https://github.com/starship/starship/releases/tag/v1.10.2) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`denisidoro/navi/9d86234`](https://github.com/maximousblk/mill/releases/tag/denisidoro%2Fnavi%2F9d86234) - Set of GitHub Actions for me to build my favorite projects.
