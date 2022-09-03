@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C&#43;&#43; for educational purposes.
 - [ashwinky/intro_to_git](https://github.com/ashwinky/intro_to_git) - 
 - [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - doesn&#39;t work yet...
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) - A command line application to interact with EXM
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
-- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 
 ### 🌱 My latest projects
 
