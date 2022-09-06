@@ -9,13 +9,13 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C&#43;&#43; for educational purposes.
 - [ashwinky/intro_to_git](https://github.com/ashwinky/intro_to_git) - 
-- [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - doesn&#39;t work yet...
+- [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) - A command line application to interact with EXM
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 
 ### 🌱 My latest projects
 
-- [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - doesn&#39;t work yet...
+- [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
 - [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
 - [maximousblk/wave.go](https://github.com/maximousblk/wave.go) - Vanity Arweave Wallet Generator
@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.9.2`](https://github.com/calcom/cal.com/releases/tag/v1.9.2) - Scheduling infrastructure for absolutely everyone.
+- [three-em/3em](https://github.com/three-em/3em) [`0.3.13`](https://github.com/three-em/3em/releases/tag/0.3.13) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.9.3`](https://github.com/calcom/cal.com/releases/tag/v1.9.3) - Scheduling infrastructure for absolutely everyone.
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`ndd7xv/heh/e0f89e1`](https://github.com/maximousblk/mill/releases/tag/ndd7xv%2Fheh%2Fe0f89e1) - Set of GitHub Actions for me to build my favorite projects.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.32`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.32) - A command line application to interact with EXM
-- [three-em/3em](https://github.com/three-em/3em) [`0.3.12`](https://github.com/three-em/3em/releases/tag/0.3.12) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [starship/starship](https://github.com/starship/starship) [`v1.10.2`](https://github.com/starship/starship/releases/tag/v1.10.2) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`denisidoro/navi/9d86234`](https://github.com/maximousblk/mill/releases/tag/denisidoro%2Fnavi%2F9d86234) - Set of GitHub Actions for me to build my favorite projects.
 
 ### ⭐ Recent Stars
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
+- [optiv/Go365](https://github.com/optiv/Go365) - An Office365 User Attack Tool
+- [Kl4rry/simp](https://github.com/Kl4rry/simp) - 🖼️ Simp is a fast and simple GPU-accelerated image manipulation program.
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
-- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don&#39;t have a broken hiring process
-- [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browsless tool to help you quickly view markdown files in the blink of an eye.
-- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 
 ### 📰 Recent Blog Posts
 
