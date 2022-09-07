@@ -31,10 +31,10 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.34`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.34) - A command line application to interact with EXM
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.13`](https://github.com/three-em/3em/releases/tag/0.3.13) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.9.3`](https://github.com/calcom/cal.com/releases/tag/v1.9.3) - Scheduling infrastructure for absolutely everyone.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`ndd7xv/heh/e0f89e1`](https://github.com/maximousblk/mill/releases/tag/ndd7xv%2Fheh%2Fe0f89e1) - Set of GitHub Actions for me to build my favorite projects.
-- [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.32`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.32) - A command line application to interact with EXM
 - [starship/starship](https://github.com/starship/starship) [`v1.10.2`](https://github.com/starship/starship/releases/tag/v1.10.2) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 ### ⭐ Recent Stars
