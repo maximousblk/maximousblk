@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C&#43;&#43; for educational purposes.
 - [ashwinky/intro_to_git](https://github.com/ashwinky/intro_to_git) - 
 - [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) - A command line application to interact with EXM
-- [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 
 ### 🌱 My latest projects
 
@@ -31,11 +31,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`maaslalani/slides/0.0-1620042`](https://github.com/maximousblk/mill/releases/tag/maaslalani%2Fslides%2F0.0-1620042) - Set of GitHub Actions for me to build my favorite projects.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v1.9.5`](https://github.com/calcom/cal.com/releases/tag/v1.9.5) - Scheduling infrastructure for absolutely everyone.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.35`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.35) - A command line application to interact with EXM
 - [starship/starship](https://github.com/starship/starship) [`v1.10.3`](https://github.com/starship/starship/releases/tag/v1.10.3) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.13`](https://github.com/three-em/3em/releases/tag/0.3.13) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`ndd7xv/heh/e0f89e1`](https://github.com/maximousblk/mill/releases/tag/ndd7xv%2Fheh%2Fe0f89e1) - Set of GitHub Actions for me to build my favorite projects.
 
 ### ⭐ Recent Stars
 
