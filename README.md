@@ -31,7 +31,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.0.0`](https://github.com/calcom/cal.com/releases/tag/v2.0.0) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.0.1`](https://github.com/calcom/cal.com/releases/tag/v2.0.1) - Scheduling infrastructure for absolutely everyone.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`maaslalani/slides/0.0-1620042`](https://github.com/maximousblk/mill/releases/tag/maaslalani%2Fslides%2F0.0-1620042) - Set of GitHub Actions for me to build my favorite projects.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.35`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.35) - A command line application to interact with EXM
 - [starship/starship](https://github.com/starship/starship) [`v1.10.3`](https://github.com/starship/starship/releases/tag/v1.10.3) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+- [andrearufo/monospaced.css](https://github.com/andrearufo/monospaced.css) - A supersimple, monospaced, modular, flat stylesheet made in SASS for simple pages 
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [optiv/Go365](https://github.com/optiv/Go365) - An Office365 User Attack Tool
 - [Kl4rry/simp](https://github.com/Kl4rry/simp) - 🖼️ Simp is a fast and simple GPU-accelerated image manipulation program.
-- [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
 
 ### 📰 Recent Blog Posts
 
