@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C&#43;&#43; for educational purposes.
 - [ashwinky/intro_to_git](https://github.com/ashwinky/intro_to_git) - 
 - [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
-- [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) - A command line application to interact with EXM
 
 ### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [justjavac/dvm](https://github.com/justjavac/dvm) - 🦕 Deno Version Manager - Easy way to manage multiple active deno versions.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [andrearufo/monospaced.css](https://github.com/andrearufo/monospaced.css) - A supersimple, monospaced, modular, flat stylesheet made in SASS for simple pages 
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [optiv/Go365](https://github.com/optiv/Go365) - An Office365 User Attack Tool
-- [Kl4rry/simp](https://github.com/Kl4rry/simp) - 🖼️ Simp is a fast and simple GPU-accelerated image manipulation program.
 
 ### 📰 Recent Blog Posts
 
