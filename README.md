@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`elliot40404/bonk/b96fc6a`](https://github.com/maximousblk/mill/releases/tag/elliot40404%2Fbonk%2Fb96fc6a) - Set of GitHub Actions for me to build my favorite projects.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.0.1`](https://github.com/calcom/cal.com/releases/tag/v2.0.1) - Scheduling infrastructure for absolutely everyone.
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`maaslalani/slides/0.0-1620042`](https://github.com/maximousblk/mill/releases/tag/maaslalani%2Fslides%2F0.0-1620042) - Set of GitHub Actions for me to build my favorite projects.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.35`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.35) - A command line application to interact with EXM
 - [starship/starship](https://github.com/starship/starship) [`v1.10.3`](https://github.com/starship/starship/releases/tag/v1.10.3) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.13`](https://github.com/three-em/3em/releases/tag/0.3.13) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 
 ### ⭐ Recent Stars
 
+- [elliot40404/bonk](https://github.com/elliot40404/bonk) - The blazingly fast touch alternative written in rust.
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains.
 - [hasherezade/pe-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI 
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 - [Sanakan8472/copy-dialog-lunar-lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander) - Play lunar lander in you windows file copy dialog
-- [justjavac/dvm](https://github.com/justjavac/dvm) - 🦕 Deno Version Manager - Easy way to manage multiple active deno versions.
 
 ### 📰 Recent Blog Posts
 
