@@ -31,7 +31,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.0.3`](https://github.com/calcom/cal.com/releases/tag/v2.0.3) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.0.4`](https://github.com/calcom/cal.com/releases/tag/v2.0.4) - Scheduling infrastructure for absolutely everyone.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.37`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.37) - A command line application to interact with EXM
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`elliot40404/bonk/b96fc6a`](https://github.com/maximousblk/mill/releases/tag/elliot40404%2Fbonk%2Fb96fc6a) - Set of GitHub Actions for me to build my favorite projects.
 - [starship/starship](https://github.com/starship/starship) [`v1.10.3`](https://github.com/starship/starship/releases/tag/v1.10.3) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
