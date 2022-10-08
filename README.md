@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [D1rkMtr/FilelessRemotePE](https://github.com/D1rkMtr/FilelessRemotePE) - Loading Fileless Remote PE from URI to memory with argument passing  and ETW patching and NTDLL unhooking and No New Thread technique
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Save space by cleaning non-essential files from software projects.
-- [chmln/sd](https://github.com/chmln/sd) - Intuitive find &amp; replace CLI (sed alternative)
 
 ### 📰 Recent Blog Posts
 
