@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [soheilhy/cmux](https://github.com/soheilhy/cmux) - Connection multiplexer for GoLang: serve different services on the same port!
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [D1rkMtr/FilelessRemotePE](https://github.com/D1rkMtr/FilelessRemotePE) - Loading Fileless Remote PE from URI to memory with argument passing  and ETW patching and NTDLL unhooking and No New Thread technique
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 
 ### 📰 Recent Blog Posts
 
