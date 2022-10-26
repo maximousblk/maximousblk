@@ -31,15 +31,15 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.14.0`](https://github.com/denoland/vscode_deno/releases/tag/3.14.0) - Visual Studio Code plugin for Deno
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.1.1`](https://github.com/calcom/cal.com/releases/tag/v2.1.1) - Scheduling infrastructure for absolutely everyone.
 - [starship/starship](https://github.com/starship/starship) [`v1.11.0`](https://github.com/starship/starship/releases/tag/v1.11.0) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.13.2`](https://github.com/denoland/vscode_deno/releases/tag/3.13.2) - Visual Studio Code plugin for Deno
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.42`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.42) - A command line application to interact with EXM
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`elliot40404/bonk/b96fc6a`](https://github.com/maximousblk/mill/releases/tag/elliot40404%2Fbonk%2Fb96fc6a) - Set of GitHub Actions for me to build my favorite projects.
 
 ### ⭐ Recent Stars
 
-- [carlospuenteg/File-Inyector](https://github.com/carlospuenteg/File-Inyector) - File Inyector is a script that allows you to store any file in an image using steganography
+- [carlospuenteg/File-Injector](https://github.com/carlospuenteg/File-Injector) - File Injector is a script that allows you to store any file in an image using steganography
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
