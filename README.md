@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [three-em/3em](https://github.com/three-em/3em) [`0.3.14`](https://github.com/three-em/3em/releases/tag/0.3.14) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`yaa110/nomino/86e5a77`](https://github.com/maximousblk/mill/releases/tag/yaa110%2Fnomino%2F86e5a77) - Set of GitHub Actions for me to build my favorite projects.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.14.0`](https://github.com/denoland/vscode_deno/releases/tag/3.14.0) - Visual Studio Code plugin for Deno
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.1.1`](https://github.com/calcom/cal.com/releases/tag/v2.1.1) - Scheduling infrastructure for absolutely everyone.
 - [starship/starship](https://github.com/starship/starship) [`v1.11.0`](https://github.com/starship/starship/releases/tag/v1.11.0) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.42`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.42) - A command line application to interact with EXM
 
 ### ⭐ Recent Stars
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [carlospuenteg/File-Injector](https://github.com/carlospuenteg/File-Injector) - File Injector is a script that allows you to store any file in an image using steganography
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ### 📰 Recent Blog Posts
 
