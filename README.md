@@ -23,18 +23,18 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔨 My recent Pull Requests
 
+- [BREAKING: Migrate to NextJS 13](https://github.com/maximousblk/maximousblk.me/pull/568) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [fix(list_array): fix overflow check](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1983) on [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [change h1 to h2](https://github.com/ashwinky/intro_to_git/pull/1) on [ashwinky/intro_to_git](https://github.com/ashwinky/intro_to_git)
 - [chore(deps): bump @jitl/notion-api from 0.1.2 to 0.2.1](https://github.com/maximousblk/maximousblk.me/pull/406) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [Revert &#34;chore(deps): bump @jitl/notion-api from 0.1.2 to 0.2.1&#34;](https://github.com/maximousblk/maximousblk.me/pull/405) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
-- [fix: remove space between first and last item](https://github.com/justin-chu/react-fast-marquee/pull/37) on [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee)
 
 ### 🔭 Latest releases I've contributed to
 
+- [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
+- [three-em/3em](https://github.com/three-em/3em) [`0.3.16`](https://github.com/three-em/3em/releases/tag/0.3.16) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.2.1`](https://github.com/calcom/cal.com/releases/tag/v2.2.1) - Scheduling infrastructure for absolutely everyone.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.14.1`](https://github.com/denoland/vscode_deno/releases/tag/3.14.1) - Visual Studio Code plugin for Deno
-- [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.5`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.5) - A command line application to interact with EXM
-- [three-em/3em](https://github.com/three-em/3em) [`0.3.15`](https://github.com/three-em/3em/releases/tag/0.3.15) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`yaa110/nomino/86e5a77`](https://github.com/maximousblk/mill/releases/tag/yaa110/nomino/86e5a77) - Set of GitHub Actions for me to build my favorite projects.
 
 ### ⭐ Recent Stars
