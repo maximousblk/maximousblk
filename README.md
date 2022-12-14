@@ -7,10 +7,10 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 - [maximousblk/callow](https://github.com/maximousblk/callow) - Dead simple brute force tool for website login forms
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
-- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C&#43;&#43; for educational purposes.
 
 ### 🌱 My latest projects
@@ -31,11 +31,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [starship/starship](https://github.com/starship/starship) [`v1.12.0`](https://github.com/starship/starship/releases/tag/v1.12.0) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.3.8`](https://github.com/calcom/cal.com/releases/tag/v2.3.8) - Scheduling infrastructure for absolutely everyone.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.16`](https://github.com/three-em/3em/releases/tag/0.3.16) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.14.1`](https://github.com/denoland/vscode_deno/releases/tag/3.14.1) - Visual Studio Code plugin for Deno
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`yaa110/nomino/86e5a77`](https://github.com/maximousblk/mill/releases/tag/yaa110/nomino/86e5a77) - Set of GitHub Actions for me to build my favorite projects.
 
 ### ⭐ Recent Stars
 
