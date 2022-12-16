@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.4.0`](https://github.com/calcom/cal.com/releases/tag/v2.4.0) - Scheduling infrastructure for absolutely everyone.
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.15.0`](https://github.com/denoland/vscode_deno/releases/tag/3.15.0) - Visual Studio Code plugin for Deno
 - [starship/starship](https://github.com/starship/starship) [`v1.12.0`](https://github.com/starship/starship/releases/tag/v1.12.0) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.3.8`](https://github.com/calcom/cal.com/releases/tag/v2.3.8) - Scheduling infrastructure for absolutely everyone.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.16`](https://github.com/three-em/3em/releases/tag/0.3.16) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 
 ### ⭐ Recent Stars
 
+- [serverless-stack/open-next](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter
+- [betaveros/noulith](https://github.com/betaveros/noulith) - *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it
+- [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a &#34;dream bot&#34; style interface, and multiple features and other enhancements. For more info, see the website link below.
-- [InfuseAI/colab-xterm](https://github.com/InfuseAI/colab-xterm) - Open a terminal in colab, including the free tier.
-- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
 ### 📰 Recent Blog Posts
 
