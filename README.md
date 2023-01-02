@@ -39,11 +39,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [rulex-rs/pomsky](https://github.com/rulex-rs/pomsky) - A new, portable, regular expression language
 - [nil0x42/phpsploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor
 - [knavesec/CredMaster](https://github.com/knavesec/CredMaster) - Refactored &amp; improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
-- [urbanadventurer/urlcrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
-- [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world&#39;s most hated IT stickers
 
 ### 📰 Recent Blog Posts
 
