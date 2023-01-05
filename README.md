@@ -31,8 +31,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.4.2`](https://github.com/calcom/cal.com/releases/tag/v2.4.2) - Scheduling infrastructure for absolutely everyone.
-- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.15.0`](https://github.com/denoland/vscode_deno/releases/tag/3.15.0) - Visual Studio Code plugin for Deno
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.4.3`](https://github.com/calcom/cal.com/releases/tag/v2.4.3) - Scheduling infrastructure for absolutely everyone.
+- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.16.0`](https://github.com/denoland/vscode_deno/releases/tag/3.16.0) - Visual Studio Code plugin for Deno
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.16`](https://github.com/three-em/3em/releases/tag/0.3.16) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`yaa110/nomino/86e5a77`](https://github.com/maximousblk/mill/releases/tag/yaa110/nomino/86e5a77) - Set of GitHub Actions for me to build my favorite projects.
