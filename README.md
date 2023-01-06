@@ -7,8 +7,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
-- [maximousblk/sheer](https://github.com/maximousblk/sheer) - Codepen like playground for vanilla HTML, CSS and JS.
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
+- [maximousblk/sheer](https://github.com/maximousblk/sheer) - Codepen like playground for vanilla HTML, CSS and JS.
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 - [maximousblk/callow](https://github.com/maximousblk/callow) - Dead simple brute force tool for website login forms
 - [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`tbillington/kondo/fa27fc4`](https://github.com/maximousblk/mill/releases/tag/tbillington/kondo/fa27fc4) - Set of GitHub Actions for me to build my favorite projects.
 - [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.4.3`](https://github.com/calcom/cal.com/releases/tag/v2.4.3) - Scheduling infrastructure for absolutely everyone.
-- [denoland/vscode_deno](https://github.com/denoland/vscode_deno) [`3.16.0`](https://github.com/denoland/vscode_deno/releases/tag/3.16.0) - Visual Studio Code plugin for Deno
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.16`](https://github.com/three-em/3em/releases/tag/0.3.16) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`yaa110/nomino/86e5a77`](https://github.com/maximousblk/mill/releases/tag/yaa110/nomino/86e5a77) - Set of GitHub Actions for me to build my favorite projects.
+- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v2.0.0`](https://github.com/maximousblk/setup-deno/releases/tag/v2.0.0) - GitHub Action to set up Deno
 
 ### ⭐ Recent Stars
 
+- [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [rulex-rs/pomsky](https://github.com/rulex-rs/pomsky) - A new, portable, regular expression language
 - [nil0x42/phpsploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor
 - [knavesec/CredMaster](https://github.com/knavesec/CredMaster) - Refactored &amp; improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling
-- [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 
 ### 📰 Recent Blog Posts
 
