@@ -31,7 +31,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.4.4`](https://github.com/calcom/cal.com/releases/tag/v2.4.4) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.4.6`](https://github.com/calcom/cal.com/releases/tag/v2.4.6) - Scheduling infrastructure for absolutely everyone.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`tbillington/kondo/fa27fc4`](https://github.com/maximousblk/mill/releases/tag/tbillington/kondo/fa27fc4) - Set of GitHub Actions for me to build my favorite projects.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.16`](https://github.com/three-em/3em/releases/tag/0.3.16) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
