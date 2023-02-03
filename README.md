@@ -31,7 +31,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.5.6`](https://github.com/calcom/cal.com/releases/tag/v2.5.6) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.5.8`](https://github.com/calcom/cal.com/releases/tag/v2.5.8) - Scheduling infrastructure for absolutely everyone.
 - [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.12`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.12) - A react-hook to create randomized text animation
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`uutils/coreutils/8c35465`](https://github.com/maximousblk/mill/releases/tag/uutils/coreutils/8c35465) - Set of GitHub Actions for me to build my favorite projects.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
@@ -47,9 +47,9 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 📰 Recent Blog Posts
 
-- [Deno for JavaScript Beginners](https://maximousblk.me/posts/deno-for-javascript-beginners)
-- [Brute-forcing websites with Callow](https://maximousblk.me/posts/brute-forcing-websites-with-callow)
-- [Hello World](https://maximousblk.me/posts/hello-world)
+- [Deno for JavaScript Beginners](https://next.maximousblk.me/posts/deno-for-javascript-beginners)
+- [Brute-forcing websites with Callow](https://next.maximousblk.me/posts/brute-forcing-websites-with-callow)
+- [Hello World](https://next.maximousblk.me/posts/hello-world)
 
 ### 📫 How to reach me:
 
