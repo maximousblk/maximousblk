@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/chart](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies
 - [tol-is/use-scramble](https://github.com/tol-is/use-scramble) - A react-hook to create randomized text animation
 - [asetalias/asetalias.github.io](https://github.com/asetalias/asetalias.github.io) - ALIAS Official Website Repo
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/sheer](https://github.com/maximousblk/sheer) - Codepen like playground for vanilla HTML, CSS and JS.
-- [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 
 ### 🌱 My latest projects
 
@@ -31,11 +31,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.5.8`](https://github.com/calcom/cal.com/releases/tag/v2.5.8) - Scheduling infrastructure for absolutely everyone.
+- [maximousblk/chart](https://github.com/maximousblk/chart) [`1.1`](https://github.com/maximousblk/chart/releases/tag/1.1) - Console ASCII line charts with no dependencies
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`ditsuke/go-amizone/0.0&#43;775750b`](https://github.com/maximousblk/mill/releases/tag/ditsuke/go-amizone/0.0%2B775750b) - Set of GitHub Actions for me to build my favorite projects.
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.5.9`](https://github.com/calcom/cal.com/releases/tag/v2.5.9) - Scheduling infrastructure for absolutely everyone.
 - [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.12`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.12) - A react-hook to create randomized text animation
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`uutils/coreutils/8c35465`](https://github.com/maximousblk/mill/releases/tag/uutils/coreutils/8c35465) - Set of GitHub Actions for me to build my favorite projects.
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
-- [three-em/3em](https://github.com/three-em/3em) [`0.3.16`](https://github.com/three-em/3em/releases/tag/0.3.16) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 
 ### ⭐ Recent Stars
 
