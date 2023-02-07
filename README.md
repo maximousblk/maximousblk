@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.5.10`](https://github.com/calcom/cal.com/releases/tag/v2.5.10) - Scheduling infrastructure for absolutely everyone.
 - [maximousblk/chart](https://github.com/maximousblk/chart) [`1.1`](https://github.com/maximousblk/chart/releases/tag/1.1) - Console ASCII line charts with no dependencies
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`ditsuke/go-amizone/0.0&#43;775750b`](https://github.com/maximousblk/mill/releases/tag/ditsuke/go-amizone/0.0%2B775750b) - Set of GitHub Actions for me to build my favorite projects.
-- [calcom/cal.com](https://github.com/calcom/cal.com) [`v2.5.9`](https://github.com/calcom/cal.com/releases/tag/v2.5.9) - Scheduling infrastructure for absolutely everyone.
 - [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.12`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.12) - A react-hook to create randomized text animation
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
 
 ### ⭐ Recent Stars
 
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Web-based tool for creating animations programmatically
+- [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
 - [AdamKeher/SerialTerm](https://github.com/AdamKeher/SerialTerm) - Simple Serial Terminal for Windows Terminal
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q&amp;A community for your products, customers, teams, and more.
-- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 
 ### 📰 Recent Blog Posts
 
