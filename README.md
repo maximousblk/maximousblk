@@ -31,11 +31,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [three-em/3em](https://github.com/three-em/3em) [`0.3.17`](https://github.com/three-em/3em/releases/tag/0.3.17) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/chart](https://github.com/maximousblk/chart) [`1.1`](https://github.com/maximousblk/chart/releases/tag/1.1) - Console ASCII line charts with no dependencies
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`ditsuke/go-amizone/0.0&#43;775750b`](https://github.com/maximousblk/mill/releases/tag/ditsuke/go-amizone/0.0%2B775750b) - Set of GitHub Actions for me to build my favorite projects.
 - [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.12`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.12) - A react-hook to create randomized text animation
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
+- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v2.0.0`](https://github.com/maximousblk/setup-deno/releases/tag/v2.0.0) - GitHub Action to set up Deno
 
 ### ⭐ Recent Stars
 
