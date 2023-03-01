@@ -45,6 +45,14 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
 
+### 💖 Recent followers
+
+- [dhruvmalik007](https://github.com/dhruvmalik007)
+- [rohanrajpal](https://github.com/rohanrajpal)
+- [LucasMedeiros7](https://github.com/LucasMedeiros7)
+- [AzureKrigare](https://github.com/AzureKrigare)
+- [Arif1000000](https://github.com/Arif1000000)
+
 ### 📰 Recent Blog Posts
 
 - [Deno for JavaScript Beginners](https://maximousblk.me/posts/deno-for-javascript-beginners)
