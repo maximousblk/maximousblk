@@ -30,6 +30,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
+### 💖 Recent followers
+{{ range followers 5 }}
+- [{{ .Login }}]({{ .URL }})
+{{- end }}
+
 ### 📰 Recent Blog Posts
 {{ range rss "https://maximousblk.me/feed" 5 }}
 - [{{ .Title }}]({{ .URL }})
