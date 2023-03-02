@@ -32,7 +32,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 {{ range followers 5 }}
-- [{{ .Login }}]({{ .URL }})
+- @{{ .Login }}
 {{- end }}
 
 ### 📰 Recent Blog Posts
