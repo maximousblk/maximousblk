@@ -47,11 +47,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
-- [dhruvmalik007](https://github.com/dhruvmalik007)
-- [rohanrajpal](https://github.com/rohanrajpal)
-- [LucasMedeiros7](https://github.com/LucasMedeiros7)
-- [AzureKrigare](https://github.com/AzureKrigare)
-- [Arif1000000](https://github.com/Arif1000000)
+- @dhruvmalik007
+- @rohanrajpal
+- @LucasMedeiros7
+- @AzureKrigare
+- @Arif1000000
 
 ### 📰 Recent Blog Posts
 
