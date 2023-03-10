@@ -7,11 +7,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
 - [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/chart](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies
 - [tol-is/use-scramble](https://github.com/tol-is/use-scramble) - A react-hook to create randomized text animation
 - [asetalias/asetalias.github.io](https://github.com/asetalias/asetalias.github.io) - ALIAS Official Website Repo
-- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 
 ### 🌱 My latest projects
 
