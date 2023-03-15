@@ -31,19 +31,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [three-em/3em](https://github.com/three-em/3em) [`0.3.21`](https://github.com/three-em/3em/releases/tag/0.3.21) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/chart](https://github.com/maximousblk/chart) [`1.1`](https://github.com/maximousblk/chart/releases/tag/1.1) - Console ASCII line charts with no dependencies
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`ditsuke/go-amizone/0.0&#43;775750b`](https://github.com/maximousblk/mill/releases/tag/ditsuke/go-amizone/0.0%2B775750b) - Set of GitHub Actions for me to build my favorite projects.
 - [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.12`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.12) - A react-hook to create randomized text animation
 - [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
-- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v2.0.0`](https://github.com/maximousblk/setup-deno/releases/tag/v2.0.0) - GitHub Action to set up Deno
 
 ### ⭐ Recent Stars
 
+- [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is an open source anti-rookit(ARK) tool for Windows. 
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 
 ### 💖 Recent followers
 
