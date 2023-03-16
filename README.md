@@ -39,19 +39,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
+- [zxcv32/indian-wordlist](https://github.com/zxcv32/indian-wordlist) - Commonly used passwords in Indian demography
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
-- [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is an open source anti-rookit(ARK) tool for Windows. 
-- [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 
 ### 💖 Recent followers
 
 - [**@dhruvmalik007**](https://github.com/dhruvmalik007)
 - [**@rohanrajpal**](https://github.com/rohanrajpal)
-- [**@LucasMedeiros7**](https://github.com/LucasMedeiros7)
 - [**@AzureKrigare**](https://github.com/AzureKrigare)
 - [**@Arif1000000**](https://github.com/Arif1000000)
+- [**@Hrushal-Nikhare**](https://github.com/Hrushal-Nikhare)
 
 ### 📰 Recent Blog Posts
 
