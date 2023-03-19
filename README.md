@@ -47,11 +47,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@HwangTaehyun**](https://github.com/HwangTaehyun)
 - [**@dhruvmalik007**](https://github.com/dhruvmalik007)
 - [**@rohanrajpal**](https://github.com/rohanrajpal)
 - [**@AzureKrigare**](https://github.com/AzureKrigare)
 - [**@Arif1000000**](https://github.com/Arif1000000)
-- [**@Hrushal-Nikhare**](https://github.com/Hrushal-Nikhare)
 
 ### 📰 Recent Blog Posts
 
