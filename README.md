@@ -5,6 +5,11 @@
 I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college
 student and I also love Physics, and want to learn more about how the Universe works.
 
+[`🏠 maximousblk.me`](https://maximousblk.me/)
+[`📫 maximousblk@gmail.com`](mailto:maximousblk@gmail.com)
+[`🐦 @maximousblk`](https://twitter.com/maximousblk)
+[`🤓 EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
+
 ### 👷 Check out what I'm currently working on
 
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
@@ -58,13 +63,3 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [Deno for JavaScript Beginners](https://maximousblk.me/posts/deno-for-javascript-beginners)
 - [Brute-forcing websites with Callow](https://maximousblk.me/posts/brute-forcing-websites-with-callow)
 - [Hello World](https://maximousblk.me/posts/hello-world)
-
-### 📫 How to reach me:
-
-- Website: [maximousblk.me](https://maximousblk.me/)
-- Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
-- Twitter: [@maximousblk](https://twitter.com/maximousblk)
-
-You can also ask me a question on my [Public AMA](https://github.com/maximousblk/maximousblk/discussions/new?category=ama)
-
-My PGP Public Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
