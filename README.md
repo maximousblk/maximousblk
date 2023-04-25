@@ -52,11 +52,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@Xayer**](https://github.com/Xayer)
 - [**@vinayaknayar**](https://github.com/vinayaknayar)
 - [**@legitShivam**](https://github.com/legitShivam)
 - [**@MrFarhanKhan007**](https://github.com/MrFarhanKhan007)
 - [**@HwangTaehyun**](https://github.com/HwangTaehyun)
-- [**@dhruvmalik007**](https://github.com/dhruvmalik007)
 
 ### 📰 Recent Blog Posts
 
