@@ -44,19 +44,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [pimoroni/phew](https://github.com/pimoroni/phew) - 
 - [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions.
-- [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
 ### 💖 Recent followers
 
 - [**@Xayer**](https://github.com/Xayer)
 - [**@vinayaknayar**](https://github.com/vinayaknayar)
-- [**@legitShivam**](https://github.com/legitShivam)
 - [**@MrFarhanKhan007**](https://github.com/MrFarhanKhan007)
 - [**@HwangTaehyun**](https://github.com/HwangTaehyun)
+- [**@dhruvmalik007**](https://github.com/dhruvmalik007)
 
 ### 📰 Recent Blog Posts
 
