@@ -44,11 +44,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [pimoroni/phew](https://github.com/pimoroni/phew) - 
-- [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions.
 
 ### 💖 Recent followers
 
