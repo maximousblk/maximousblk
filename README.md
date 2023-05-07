@@ -44,19 +44,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B&#43; language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency.
 
 ### 💖 Recent followers
 
+- [**@codeyStein**](https://github.com/codeyStein)
 - [**@talentlessguy**](https://github.com/talentlessguy)
 - [**@Xayer**](https://github.com/Xayer)
 - [**@vinayaknayar**](https://github.com/vinayaknayar)
 - [**@MrFarhanKhan007**](https://github.com/MrFarhanKhan007)
-- [**@HwangTaehyun**](https://github.com/HwangTaehyun)
 
 ### 📰 Recent Blog Posts
 
