@@ -52,11 +52,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@ajwm8103**](https://github.com/ajwm8103)
 - [**@K-Jacko**](https://github.com/K-Jacko)
 - [**@vitita**](https://github.com/vitita)
 - [**@codeyStein**](https://github.com/codeyStein)
 - [**@talentlessguy**](https://github.com/talentlessguy)
-- [**@Xayer**](https://github.com/Xayer)
 
 ### 📰 Recent Blog Posts
 
