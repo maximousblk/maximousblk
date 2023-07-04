@@ -52,11 +52,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@Milo40**](https://github.com/Milo40)
 - [**@felipesantos2**](https://github.com/felipesantos2)
 - [**@rafael-paie**](https://github.com/rafael-paie)
 - [**@gooddavvy**](https://github.com/gooddavvy)
 - [**@ajwm8103**](https://github.com/ajwm8103)
-- [**@K-Jacko**](https://github.com/K-Jacko)
 
 ### 📰 Recent Blog Posts
 
