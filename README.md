@@ -40,23 +40,23 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.22`](https://github.com/three-em/3em/releases/tag/0.3.22) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/chart](https://github.com/maximousblk/chart) [`1.1`](https://github.com/maximousblk/chart/releases/tag/1.1) - Console ASCII line charts with no dependencies
 - [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.12`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.12) - A react-hook to create randomized text animation
-- [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
+- [maximousblk/callow](https://github.com/maximousblk/callow) [`1.1.0`](https://github.com/maximousblk/callow/releases/tag/1.1.0) - Dead simple brute force tool for website login forms
 
 ### ⭐ Recent Stars
 
+- [EgeBalci/amber](https://github.com/EgeBalci/amber) - Reflective PE packer.
+- [EgeBalci/sgn](https://github.com/EgeBalci/sgn) - Shikata ga nai (仕方がない) encoder ported into go with several improvements
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips &amp; tricks
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
-- [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..
-- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars &amp; Solutions, Inc. @ http://www.windows-internals.com
 
 ### 💖 Recent followers
 
+- [**@milaabl**](https://github.com/milaabl)
 - [**@tylermneher**](https://github.com/tylermneher)
 - [**@juliusmarkwei**](https://github.com/juliusmarkwei)
 - [**@niiadoteibrown**](https://github.com/niiadoteibrown)
 - [**@Milo40**](https://github.com/Milo40)
-- [**@felipesantos2**](https://github.com/felipesantos2)
 
 ### 📰 Recent Blog Posts
 
