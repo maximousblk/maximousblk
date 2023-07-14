@@ -52,11 +52,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@Nick-Kevin**](https://github.com/Nick-Kevin)
+- [**@pl4g**](https://github.com/pl4g)
 - [**@milaabl**](https://github.com/milaabl)
 - [**@tylermneher**](https://github.com/tylermneher)
 - [**@juliusmarkwei**](https://github.com/juliusmarkwei)
-- [**@niiadoteibrown**](https://github.com/niiadoteibrown)
-- [**@Milo40**](https://github.com/Milo40)
 
 ### 📰 Recent Blog Posts
 
