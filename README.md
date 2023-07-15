@@ -12,19 +12,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
 - [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - Passkeys Demo
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
 - [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/chart](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies
-- [tol-is/use-scramble](https://github.com/tol-is/use-scramble) - A react-hook to create randomized text animation
 
 ### 🌱 My latest projects
 
+- [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
 - [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - Passkeys Demo
 - [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
 - [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
-- [maximousblk/wave.go](https://github.com/maximousblk/wave.go) - Vanity Arweave Wallet Generator
 
 ### 🔨 My recent Pull Requests
 
@@ -52,11 +52,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@dithiane**](https://github.com/dithiane)
 - [**@Nick-Kevin**](https://github.com/Nick-Kevin)
 - [**@pl4g**](https://github.com/pl4g)
 - [**@milaabl**](https://github.com/milaabl)
 - [**@tylermneher**](https://github.com/tylermneher)
-- [**@juliusmarkwei**](https://github.com/juliusmarkwei)
 
 ### 📰 Recent Blog Posts
 
