@@ -44,19 +44,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-- [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 
 ### 💖 Recent followers
 
+- [**@i7moda2000**](https://github.com/i7moda2000)
 - [**@Supercool-1**](https://github.com/Supercool-1)
 - [**@rfoel**](https://github.com/rfoel)
 - [**@m4n50n**](https://github.com/m4n50n)
 - [**@ambition85**](https://github.com/ambition85)
-- [**@mariaeduarda022005**](https://github.com/mariaeduarda022005)
 
 ### 📰 Recent Blog Posts
 
