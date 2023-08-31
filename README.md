@@ -52,11 +52,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@Delta456**](https://github.com/Delta456)
 - [**@feynon**](https://github.com/feynon)
 - [**@mohammed-b-hassan**](https://github.com/mohammed-b-hassan)
 - [**@Supercool-1**](https://github.com/Supercool-1)
 - [**@rfoel**](https://github.com/rfoel)
-- [**@m4n50n**](https://github.com/m4n50n)
 
 ### 📰 Recent Blog Posts
 
