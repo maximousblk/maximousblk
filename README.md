@@ -36,8 +36,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [three-em/3em](https://github.com/three-em/3em) [`0.3.23`](https://github.com/three-em/3em/releases/tag/0.3.23) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`ditsuke/go-amizone/0.0&#43;29391f0`](https://github.com/maximousblk/mill/releases/tag/ditsuke/go-amizone/0.0%2B29391f0) - Set of GitHub Actions for me to build my favorite projects.
-- [three-em/3em](https://github.com/three-em/3em) [`0.3.22`](https://github.com/three-em/3em/releases/tag/0.3.22) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/chart](https://github.com/maximousblk/chart) [`1.1`](https://github.com/maximousblk/chart/releases/tag/1.1) - Console ASCII line charts with no dependencies
 - [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.12`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.12) - A react-hook to create randomized text animation
 - [maximousblk/callow](https://github.com/maximousblk/callow) [`1.1.0`](https://github.com/maximousblk/callow/releases/tag/1.1.0) - Dead simple brute force tool for website login forms
