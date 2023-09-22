@@ -12,7 +12,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
-- [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - Passkeys Demo
+- [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
 - [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
 - [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
@@ -21,7 +21,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 ### 🌱 My latest projects
 
 - [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
-- [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - Passkeys Demo
+- [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
 - [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
 - [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
