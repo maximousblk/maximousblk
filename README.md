@@ -12,11 +12,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 - [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
 - [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
 - [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
-- [maximousblk/chart](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies
 
 ### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 - [ci(napi): revert to using `ubuntu-20.04` for linux builds](https://github.com/three-em/3em/pull/227) on [three-em/3em](https://github.com/three-em/3em)
 - [fix: reference error while server side rendering](https://github.com/tol-is/use-scramble/pull/3) on [tol-is/use-scramble](https://github.com/tol-is/use-scramble)
-- [BREAKING: Migrate to NextJS 13](https://github.com/maximousblk/maximousblk.me/pull/568) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
+- [BREAKING: Migrate to NextJS 14](https://github.com/maximousblk/maximousblk.me/pull/568) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
 - [fix(list_array): fix overflow check](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1983) on [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [change h1 to h2](https://github.com/ashwinky/intro_to_git/pull/1) on [ashwinky/intro_to_git](https://github.com/ashwinky/intro_to_git)
 
