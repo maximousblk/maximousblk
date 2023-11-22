@@ -40,7 +40,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`ditsuke/go-amizone/0.0&#43;29391f0`](https://github.com/maximousblk/mill/releases/tag/ditsuke/go-amizone/0.0%2B29391f0) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/chart](https://github.com/maximousblk/chart) [`1.1`](https://github.com/maximousblk/chart/releases/tag/1.1) - Console ASCII line charts with no dependencies
 - [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.12`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.12) - A react-hook to create randomized text animation
-- [maximousblk/callow](https://github.com/maximousblk/callow) [`1.1.0`](https://github.com/maximousblk/callow/releases/tag/1.1.0) - Dead simple brute force tool for website login forms
+- [asetalias/asetalias.github.io](https://github.com/asetalias/asetalias.github.io) [`v0.1.0`](https://github.com/asetalias/asetalias.github.io/releases/tag/v0.1.0) - ALIAS Official Website Repo
 
 ### ⭐ Recent Stars
 
@@ -52,11 +52,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@akumarujon**](https://github.com/akumarujon)
 - [**@Ltwoz**](https://github.com/Ltwoz)
 - [**@minhaaj-t**](https://github.com/minhaaj-t)
 - [**@VKalenski**](https://github.com/VKalenski)
 - [**@aehamdy**](https://github.com/aehamdy)
-- [**@ricardocasares**](https://github.com/ricardocasares)
 
 ### 📰 Recent Blog Posts
 
