@@ -40,7 +40,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`ditsuke/go-amizone/0.0&#43;29391f0`](https://github.com/maximousblk/mill/releases/tag/ditsuke/go-amizone/0.0%2B29391f0) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/chart](https://github.com/maximousblk/chart) [`1.1`](https://github.com/maximousblk/chart/releases/tag/1.1) - Console ASCII line charts with no dependencies
 - [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.12`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.12) - A react-hook to create randomized text animation
-- [asetalias/asetalias.github.io](https://github.com/asetalias/asetalias.github.io) [`v0.1.0`](https://github.com/asetalias/asetalias.github.io/releases/tag/v0.1.0) - ALIAS Official Website Repo
 
 ### ⭐ Recent Stars
 
