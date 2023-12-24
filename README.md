@@ -36,7 +36,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.13`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.13) - A react-hook to create randomized text animation
+- [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.15`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.15) - A react-hook to create randomized text animation
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.23`](https://github.com/three-em/3em/releases/tag/0.3.23) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`ditsuke/go-amizone/0.0&#43;29391f0`](https://github.com/maximousblk/mill/releases/tag/ditsuke/go-amizone/0.0%2B29391f0) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/chart](https://github.com/maximousblk/chart) [`1.1`](https://github.com/maximousblk/chart/releases/tag/1.1) - Console ASCII line charts with no dependencies
