@@ -50,11 +50,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@tharcissentirandekura**](https://github.com/tharcissentirandekura)
 - [**@turdfurgeson78**](https://github.com/turdfurgeson78)
 - [**@ggiglesias**](https://github.com/ggiglesias)
 - [**@akumarujon**](https://github.com/akumarujon)
 - [**@Ltwoz**](https://github.com/Ltwoz)
-- [**@minhaaj-t**](https://github.com/minhaaj-t)
 
 ### 📰 Recent Blog Posts
 
