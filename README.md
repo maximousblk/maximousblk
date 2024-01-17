@@ -12,19 +12,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 - [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
 - [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
-- [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 
 ### 🌱 My latest projects
 
+- [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
 - [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
 - [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
 - [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
 - [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
-- [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
 
 ### 🔨 My recent Pull Requests
 
@@ -36,6 +36,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/upsmon](https://github.com/maximousblk/upsmon) [`canary`](https://github.com/maximousblk/upsmon/releases/tag/canary) - A simple UPS monitor for Raspberry Pi
 - [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.15`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.15) - A react-hook to create randomized text animation
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.23`](https://github.com/three-em/3em/releases/tag/0.3.23) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/chart](https://github.com/maximousblk/chart) [`1.1`](https://github.com/maximousblk/chart/releases/tag/1.1) - Console ASCII line charts with no dependencies
