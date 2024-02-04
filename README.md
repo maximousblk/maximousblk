@@ -38,7 +38,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 - [maximousblk/upsmon](https://github.com/maximousblk/upsmon) [`canary`](https://github.com/maximousblk/upsmon/releases/tag/canary) - A simple UPS monitor for Raspberry Pi
 - [three-em/3em](https://github.com/three-em/3em) [`0.3.23`](https://github.com/three-em/3em/releases/tag/0.3.23) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
-- [maximousblk/chart](https://github.com/maximousblk/chart) [`1.1`](https://github.com/maximousblk/chart/releases/tag/1.1) - Console ASCII line charts with no dependencies
 
 ### ⭐ Recent Stars
 
