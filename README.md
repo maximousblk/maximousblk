@@ -16,15 +16,15 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 - [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
 - [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
-- [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
+- [maximousblk/quantera](https://github.com/maximousblk/quantera) - 
 
 ### 🌱 My latest projects
 
 - [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
 - [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
+- [maximousblk/quantera](https://github.com/maximousblk/quantera) - 
 - [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
 - [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
-- [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
 
 ### 🔨 My recent Pull Requests
 
@@ -49,11 +49,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@ajsb85**](https://github.com/ajsb85)
 - [**@monicaalyssa**](https://github.com/monicaalyssa)
 - [**@danielmendesrk**](https://github.com/danielmendesrk)
 - [**@tharcissentirandekura**](https://github.com/tharcissentirandekura)
 - [**@turdfurgeson78**](https://github.com/turdfurgeson78)
-- [**@ggiglesias**](https://github.com/ggiglesias)
 
 ### 📰 Recent Blog Posts
 
