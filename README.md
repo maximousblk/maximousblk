@@ -49,11 +49,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@Code-ish**](https://github.com/Code-ish)
 - [**@Yujan3333**](https://github.com/Yujan3333)
 - [**@ajsb85**](https://github.com/ajsb85)
 - [**@monicaalyssa**](https://github.com/monicaalyssa)
 - [**@danielmendesrk**](https://github.com/danielmendesrk)
-- [**@tharcissentirandekura**](https://github.com/tharcissentirandekura)
 
 ### 📰 Recent Blog Posts
 
