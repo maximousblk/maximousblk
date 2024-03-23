@@ -40,19 +40,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [PackOrganization/Pack](https://github.com/PackOrganization/Pack) - Pack
+- [xataio/pgzx](https://github.com/xataio/pgzx) - Create PostgreSQL extensions using Zig.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - Transforming a Raspberry Pico into a FIDO key
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
 ### 💖 Recent followers
 
+- [**@DaveSimoes**](https://github.com/DaveSimoes)
 - [**@chongfengling**](https://github.com/chongfengling)
 - [**@nickocruzm**](https://github.com/nickocruzm)
 - [**@alizain-c**](https://github.com/alizain-c)
 - [**@Code-ish**](https://github.com/Code-ish)
-- [**@Yujan3333**](https://github.com/Yujan3333)
 
 ### 📰 Recent Blog Posts
 
