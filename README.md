@@ -48,11 +48,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@artemisKGG1**](https://github.com/artemisKGG1)
 - [**@DaveSimoes**](https://github.com/DaveSimoes)
 - [**@chongfengling**](https://github.com/chongfengling)
 - [**@nickocruzm**](https://github.com/nickocruzm)
 - [**@alizain-c**](https://github.com/alizain-c)
-- [**@Code-ish**](https://github.com/Code-ish)
 
 ### 📰 Recent Blog Posts
 
