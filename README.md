@@ -12,11 +12,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 - [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
 - [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
-- [maximousblk/quantera](https://github.com/maximousblk/quantera) - 
 
 ### 🌱 My latest projects
 
@@ -36,6 +36,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`zigtools/zls/bb19bee`](https://github.com/maximousblk/mill/releases/tag/zigtools/zls/bb19bee) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/upsmon](https://github.com/maximousblk/upsmon) [`canary`](https://github.com/maximousblk/upsmon/releases/tag/canary) - A simple UPS monitor for Raspberry Pi
 
 ### ⭐ Recent Stars
@@ -48,11 +49,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
-- [**@Kos-M**](https://github.com/Kos-M)
 - [**@elizanierwinska**](https://github.com/elizanierwinska)
 - [**@Vishal313-m**](https://github.com/Vishal313-m)
 - [**@artemisKGG1**](https://github.com/artemisKGG1)
 - [**@DaveSimoes**](https://github.com/DaveSimoes)
+- [**@chongfengling**](https://github.com/chongfengling)
 
 ### 📰 Recent Blog Posts
 
