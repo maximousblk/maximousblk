@@ -41,11 +41,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [ddanier/nur](https://github.com/ddanier/nur) - nur - a taskrunner based on nu shell
 - [Data-Oriented-House/PortableBuildTools](https://github.com/Data-Oriented-House/PortableBuildTools) - Portable VS Build Tools installer
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [PackOrganization/Pack](https://github.com/PackOrganization/Pack) - Pack
 - [xataio/pgzx](https://github.com/xataio/pgzx) - Create PostgreSQL extensions using Zig.
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 
 ### 💖 Recent followers
 
