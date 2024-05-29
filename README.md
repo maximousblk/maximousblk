@@ -49,11 +49,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@missT800**](https://github.com/missT800)
 - [**@Shaymaasalehh**](https://github.com/Shaymaasalehh)
 - [**@ValeriiaRogacheva**](https://github.com/ValeriiaRogacheva)
 - [**@huuquyet**](https://github.com/huuquyet)
 - [**@elizanierwinska**](https://github.com/elizanierwinska)
-- [**@Vishal313-m**](https://github.com/Vishal313-m)
 
 ### 📰 Recent Blog Posts
 
