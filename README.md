@@ -48,11 +48,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@k-bhatia2**](https://github.com/k-bhatia2)
 - [**@standardgalactic**](https://github.com/standardgalactic)
 - [**@af-lozano**](https://github.com/af-lozano)
 - [**@AGS-stack**](https://github.com/AGS-stack)
 - [**@yashksaini-coder**](https://github.com/yashksaini-coder)
-- [**@sammorozov**](https://github.com/sammorozov)
 
 ### 📰 Recent Blog Posts
 
