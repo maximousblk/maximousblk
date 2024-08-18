@@ -48,11 +48,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@guptarohit**](https://github.com/guptarohit)
 - [**@deepmancer**](https://github.com/deepmancer)
 - [**@xaviermontane**](https://github.com/xaviermontane)
 - [**@k-bhatia2**](https://github.com/k-bhatia2)
 - [**@standardgalactic**](https://github.com/standardgalactic)
-- [**@af-lozano**](https://github.com/af-lozano)
 
 ### 📰 Recent Blog Posts
 
