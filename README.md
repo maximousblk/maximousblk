@@ -35,7 +35,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`ddanier/nur/b34dfa7`](https://github.com/maximousblk/mill/releases/tag/ddanier/nur/b34dfa7) - Set of GitHub Actions for me to build my favorite projects.
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`ddanier/nur/fd990a6`](https://github.com/maximousblk/mill/releases/tag/ddanier/nur/fd990a6) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/upsmon](https://github.com/maximousblk/upsmon) [`canary`](https://github.com/maximousblk/upsmon/releases/tag/canary) - A simple UPS monitor for Raspberry Pi
 
 ### ⭐ Recent Stars
