@@ -15,7 +15,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
 - [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
-- [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
 
 ### 🌱 My latest projects
 
