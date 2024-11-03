@@ -47,11 +47,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@divyanshudhruv**](https://github.com/divyanshudhruv)
 - [**@Rubyripped13**](https://github.com/Rubyripped13)
 - [**@omgupta1608**](https://github.com/omgupta1608)
 - [**@hieu-ht**](https://github.com/hieu-ht)
 - [**@Mehysa**](https://github.com/Mehysa)
-- [**@joe-mccarthy**](https://github.com/joe-mccarthy)
 
 ### 📰 Recent Blog Posts
 
