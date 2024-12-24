@@ -33,7 +33,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`JunkuiZhang/zed/3edff29`](https://github.com/maximousblk/mill/releases/tag/JunkuiZhang/zed/3edff29) - Set of GitHub Actions for me to build my favorite projects.
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`zed-industries/zed/8ccc7b8`](https://github.com/maximousblk/mill/releases/tag/zed-industries/zed/8ccc7b8) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/upsmon](https://github.com/maximousblk/upsmon) [`canary`](https://github.com/maximousblk/upsmon/releases/tag/canary) - A simple UPS monitor for Raspberry Pi
 
 ### ⭐ Recent Stars
@@ -46,11 +46,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@mooosakhan**](https://github.com/mooosakhan)
 - [**@nholuongut**](https://github.com/nholuongut)
 - [**@Euclid556**](https://github.com/Euclid556)
 - [**@JordanChristensen**](https://github.com/JordanChristensen)
 - [**@codecruz**](https://github.com/codecruz)
-- [**@rcp-code**](https://github.com/rcp-code)
 
 ### 📰 Recent Blog Posts
 
