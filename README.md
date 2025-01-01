@@ -46,11 +46,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@victorbadaro**](https://github.com/victorbadaro)
 - [**@XiaomingX**](https://github.com/XiaomingX)
 - [**@nholuongut**](https://github.com/nholuongut)
 - [**@Euclid556**](https://github.com/Euclid556)
 - [**@JordanChristensen**](https://github.com/JordanChristensen)
-- [**@codecruz**](https://github.com/codecruz)
 
 ### 📰 Recent Blog Posts
 
