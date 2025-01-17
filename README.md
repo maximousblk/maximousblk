@@ -34,7 +34,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 ### 🔭 Latest releases I've contributed to
 
 - [maximousblk/mill](https://github.com/maximousblk/mill) [`zed-industries/zed/8ccc7b8`](https://github.com/maximousblk/mill/releases/tag/zed-industries/zed/8ccc7b8) - Set of GitHub Actions for me to build my favorite projects.
-- [maximousblk/upsmon](https://github.com/maximousblk/upsmon) [`canary`](https://github.com/maximousblk/upsmon/releases/tag/canary) - A simple UPS monitor for Raspberry Pi
 
 ### ⭐ Recent Stars
 
