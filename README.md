@@ -13,7 +13,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 ### 👷 Check out what I'm currently working on
 
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
-- [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
 
 ### 🌱 My latest projects
 
