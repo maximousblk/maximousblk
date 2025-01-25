@@ -32,7 +32,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`zed-industries/zed/8ccc7b8`](https://github.com/maximousblk/mill/releases/tag/zed-industries/zed/8ccc7b8) - Set of GitHub Actions for me to build my favorite projects.
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`zed-industries/zed/c55cdd0`](https://github.com/maximousblk/mill/releases/tag/zed-industries/zed/c55cdd0) - Set of GitHub Actions for me to build my favorite projects.
 
 ### ⭐ Recent Stars
 
@@ -44,11 +44,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@XiaomingX**](https://github.com/XiaomingX)
 - [**@victorbadaro**](https://github.com/victorbadaro)
 - [**@nholuongut**](https://github.com/nholuongut)
 - [**@Euclid556**](https://github.com/Euclid556)
 - [**@JordanChristensen**](https://github.com/JordanChristensen)
-- [**@codecruz**](https://github.com/codecruz)
 
 ### 📰 Recent Blog Posts
 
