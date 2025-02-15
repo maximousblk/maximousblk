@@ -12,16 +12,17 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
-- [maximousblk/ulid](https://github.com/maximousblk/ulid) - 
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
+- [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - 
+- [maximousblk/ulid](https://github.com/maximousblk/ulid) - 
 
 ### 🌱 My latest projects
 
+- [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - 
 - [maximousblk/ulid](https://github.com/maximousblk/ulid) - 
 - [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
 - [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
 - [maximousblk/quantera](https://github.com/maximousblk/quantera) - 
-- [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
 
 ### 🔨 My recent Pull Requests
 
@@ -37,19 +38,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
+- [pubky/pkarr](https://github.com/pubky/pkarr) - Public Key Addressable Resource Records (sovereign TLDs)
+- [tale/headplane](https://github.com/tale/headplane) - An advanced UI for juanfont/headscale
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
-- [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 
 ### 💖 Recent followers
 
+- [**@Zola52**](https://github.com/Zola52)
+- [**@angelwingss**](https://github.com/angelwingss)
 - [**@montymi**](https://github.com/montymi)
 - [**@XiaomingX**](https://github.com/XiaomingX)
 - [**@victorbadaro**](https://github.com/victorbadaro)
-- [**@nholuongut**](https://github.com/nholuongut)
-- [**@Euclid556**](https://github.com/Euclid556)
 
 ### 📰 Recent Blog Posts
 
