@@ -12,8 +12,8 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
-- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - 
+- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/ulid](https://github.com/maximousblk/ulid) - 
 
 ### 🌱 My latest projects
