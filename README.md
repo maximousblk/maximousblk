@@ -12,17 +12,18 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
-- [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - 
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
+- [maximousblk/tsls](https://github.com/maximousblk/tsls) - 
+- [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - 
 - [maximousblk/ulid](https://github.com/maximousblk/ulid) - 
 
 ### 🌱 My latest projects
 
+- [maximousblk/tsls](https://github.com/maximousblk/tsls) - 
 - [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - 
 - [maximousblk/ulid](https://github.com/maximousblk/ulid) - 
 - [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
 - [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
-- [maximousblk/quantera](https://github.com/maximousblk/quantera) - 
 
 ### 🔨 My recent Pull Requests
 
@@ -34,14 +35,14 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`zed-industries/zed/fb9b4ee`](https://github.com/maximousblk/mill/releases/tag/zed-industries/zed/fb9b4ee) - Set of GitHub Actions for me to build my favorite projects.
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`maximousblk/tsls/0.0&#43;301f620`](https://github.com/maximousblk/mill/releases/tag/maximousblk/tsls/0.0%2B301f620) - Set of GitHub Actions for me to build my favorite projects.
 
 ### ⭐ Recent Stars
 
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [pubky/pkarr](https://github.com/pubky/pkarr) - Public Key Addressable Resource Records (sovereign TLDs)
-- [tale/headplane](https://github.com/tale/headplane) - An advanced UI for juanfont/headscale
+- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ### 💖 Recent followers
