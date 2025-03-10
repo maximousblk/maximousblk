@@ -16,6 +16,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [maximousblk/tsls](https://github.com/maximousblk/tsls) - 
 - [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - 
 - [maximousblk/ulid](https://github.com/maximousblk/ulid) - 
+- [judofyr/spice](https://github.com/judofyr/spice) - Fine-grained parallelism with sub-nanosecond overhead in Zig
 
 ### 🌱 My latest projects
 
