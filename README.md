@@ -40,19 +40,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [pubky/pkarr](https://github.com/pubky/pkarr) - Public Key Addressable Resource Records (sovereign TLDs)
-- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 
 ### 💖 Recent followers
 
+- [**@djbelishaO**](https://github.com/djbelishaO)
 - [**@LinuxJS**](https://github.com/LinuxJS)
 - [**@Zola52**](https://github.com/Zola52)
 - [**@angelwingss**](https://github.com/angelwingss)
 - [**@montymi**](https://github.com/montymi)
-- [**@XiaomingX**](https://github.com/XiaomingX)
 
 ### 📰 Recent Blog Posts
 
