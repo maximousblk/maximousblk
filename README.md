@@ -48,11 +48,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@tchnorider**](https://github.com/tchnorider)
 - [**@djbelishaO**](https://github.com/djbelishaO)
 - [**@LinuxJS**](https://github.com/LinuxJS)
 - [**@Zola52**](https://github.com/Zola52)
 - [**@angelwingss**](https://github.com/angelwingss)
-- [**@montymi**](https://github.com/montymi)
 
 ### 📰 Recent Blog Posts
 
