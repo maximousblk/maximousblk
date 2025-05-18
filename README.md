@@ -36,15 +36,15 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`zed-industries/zed/e26620d`](https://github.com/maximousblk/mill/releases/tag/zed-industries/zed/e26620d) - Set of GitHub Actions for me to build my favorite projects.
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`zed-industries/zed/841a4e3`](https://github.com/maximousblk/mill/releases/tag/zed-industries/zed/841a4e3) - Set of GitHub Actions for me to build my favorite projects.
 
 ### ⭐ Recent Stars
 
+- [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 &amp; 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, JavaScript, or Python apps.
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 
 ### 💖 Recent followers
 
