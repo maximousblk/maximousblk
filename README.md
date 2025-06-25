@@ -36,7 +36,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`zed-industries/zed/eb5f595`](https://github.com/maximousblk/mill/releases/tag/zed-industries/zed/eb5f595) - Set of GitHub Actions for me to build my favorite projects.
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`zed-industries/zed/4cd4d28`](https://github.com/maximousblk/mill/releases/tag/zed-industries/zed/4cd4d28) - Set of GitHub Actions for me to build my favorite projects.
 
 ### ⭐ Recent Stars
 
