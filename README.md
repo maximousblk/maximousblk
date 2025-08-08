@@ -12,19 +12,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/coredns-traefik-inet](https://github.com/maximousblk/coredns-traefik-inet) - 
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/tsls](https://github.com/maximousblk/tsls) - 
 - [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - 
 - [maximousblk/ulid](https://github.com/maximousblk/ulid) - Universally Unique Lexicographically Sortable Identifier
-- [judofyr/spice](https://github.com/judofyr/spice) - Fine-grained parallelism with sub-nanosecond overhead in Zig
 
 ### 🌱 My latest projects
 
+- [maximousblk/coredns-traefik-inet](https://github.com/maximousblk/coredns-traefik-inet) - 
 - [maximousblk/tsls](https://github.com/maximousblk/tsls) - 
 - [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - 
 - [maximousblk/ulid](https://github.com/maximousblk/ulid) - Universally Unique Lexicographically Sortable Identifier
 - [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
-- [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
 
 ### 🔨 My recent Pull Requests
 
