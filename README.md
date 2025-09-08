@@ -40,11 +40,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Open-Source Alternative to NSSM, WinSW &amp; FireDaemon
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [Locietta/xanmod-kernel-WSL2](https://github.com/Locietta/xanmod-kernel-WSL2) - Xanmod kernel for WSL2, built by clang with ThinLTO enabled. Build &amp; Release are automated by Github Action.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr] 
 - [JGiraldo29/giralnet](https://github.com/JGiraldo29/giralnet) - A private, high-trust onion routing network. It focuses on providing a secure and performant communication layer for small teams.
-- [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 
 ### 💖 Recent followers
 
