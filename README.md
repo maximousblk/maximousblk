@@ -48,11 +48,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@RichLewis007**](https://github.com/RichLewis007)
 - [**@janeeshp**](https://github.com/janeeshp)
 - [**@AshadulTopu23**](https://github.com/AshadulTopu23)
 - [**@epicDavid-private**](https://github.com/epicDavid-private)
 - [**@oracle002**](https://github.com/oracle002)
-- [**@encryptedtouhid**](https://github.com/encryptedtouhid)
 
 ### 📰 Recent Blog Posts
 
