@@ -36,11 +36,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 🔭 Latest releases I've contributed to
 
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`zed-industries/zed/4cd4d28`](https://github.com/maximousblk/mill/releases/tag/zed-industries/zed/4cd4d28) - Set of GitHub Actions for me to build my favorite projects.
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`zed-industries/zed/8201f3d`](https://github.com/maximousblk/mill/releases/tag/zed-industries/zed/8201f3d) - Set of GitHub Actions for me to build my favorite projects.
 
 ### ⭐ Recent Stars
 
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Open-Source Alternative to NSSM, WinSW &amp; FireDaemon
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Modern Open-Source Alternative to NSSM, WinSW &amp; FireDaemon
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [Locietta/xanmod-kernel-WSL2](https://github.com/Locietta/xanmod-kernel-WSL2) - Xanmod kernel for WSL2, built by clang with ThinLTO enabled. Build &amp; Release are automated by Github Action.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr] 
