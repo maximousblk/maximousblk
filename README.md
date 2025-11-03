@@ -40,11 +40,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [hcavarsan/pipedash](https://github.com/hcavarsan/pipedash) - A desktop app for managing CI/CD pipelines from multiple providers
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library
 - [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Open-Source Alternative to NSSM, WinSW &amp; FireDaemon Pro
-- [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 
 ### 💖 Recent followers
 
