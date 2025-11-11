@@ -12,19 +12,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 
+- [maximousblk/nyx](https://github.com/maximousblk/nyx) - 
 - [maximousblk/coredns-traefik-inet](https://github.com/maximousblk/coredns-traefik-inet) - coredns plugin to automatically map traifik hosts to an interface
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 - [maximousblk/tsls](https://github.com/maximousblk/tsls) - list all ip address on a tailnet. useful with go-netaddrs
 - [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - was testing if nomad works inside docker (no)
-- [maximousblk/ulid](https://github.com/maximousblk/ulid) - Universally Unique Lexicographically Sortable Identifier
 
 ### 🌱 My latest projects
 
+- [maximousblk/nyx](https://github.com/maximousblk/nyx) - 
 - [maximousblk/coredns-traefik-inet](https://github.com/maximousblk/coredns-traefik-inet) - coredns plugin to automatically map traifik hosts to an interface
 - [maximousblk/tsls](https://github.com/maximousblk/tsls) - list all ip address on a tailnet. useful with go-netaddrs
 - [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - was testing if nomad works inside docker (no)
 - [maximousblk/ulid](https://github.com/maximousblk/ulid) - Universally Unique Lexicographically Sortable Identifier
-- [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
 
 ### 🔨 My recent Pull Requests
 
