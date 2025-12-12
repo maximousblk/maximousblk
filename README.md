@@ -40,11 +40,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [jtdowney/tsbridge](https://github.com/jtdowney/tsbridge) - A lightweight proxy manager built on Tailscale&#39;s tsnet library that enables multiple HTTPS services on a Tailnet
 - [hummingbird-player/hummingbird](https://github.com/hummingbird-player/hummingbird) - Modern music player written in Rust using GPUI with a focus on design and performance
 - [hcavarsan/pipedash](https://github.com/hcavarsan/pipedash) - A desktop app for managing CI/CD pipelines from multiple providers
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
-- [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library
 
 ### 💖 Recent followers
 
