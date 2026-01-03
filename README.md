@@ -42,7 +42,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 
