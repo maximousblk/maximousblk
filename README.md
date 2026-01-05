@@ -40,11 +40,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
+- [joedefen/dwipe](https://github.com/joedefen/dwipe) - Tool to securely and efficiently wipe devices and partiitions for Linux
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
 ### 💖 Recent followers
 
