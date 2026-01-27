@@ -48,11 +48,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 💖 Recent followers
 
+- [**@isnt-one**](https://github.com/isnt-one)
 - [**@theavirajsaxena**](https://github.com/theavirajsaxena)
 - [**@linaTechDev**](https://github.com/linaTechDev)
 - [**@subashsrover**](https://github.com/subashsrover)
 - [**@vikram42003**](https://github.com/vikram42003)
-- [**@MioJoester**](https://github.com/MioJoester)
 
 ### 📰 Recent Blog Posts
 
