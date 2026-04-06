@@ -15,8 +15,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [maximousblk/nyx](https://github.com/maximousblk/nyx) - 
 - [maximousblk/coredns-traefik-inet](https://github.com/maximousblk/coredns-traefik-inet) - coredns plugin to automatically map traifik hosts to an interface
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
-- [maximousblk/tsls](https://github.com/maximousblk/tsls) - list all ip address on a tailnet. useful with go-netaddrs
-- [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - was testing if nomad works inside docker (no)
 
 ### 🌱 My latest projects
 
@@ -40,19 +38,19 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
+- [Zfinix/another](https://github.com/Zfinix/another) - A desktop app for mirroring and controlling Android devices over USB. Built with Tauri, React, and Rust.
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition) 
+- [TRGamer-tech/FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) - A modern, powerful, and intuitive Windows task scheduling application built with WinUI 3 and .NET 8.
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file
 
 ### 💖 Recent followers
 
+- [**@Sorndara108**](https://github.com/Sorndara108)
 - [**@isnt-one**](https://github.com/isnt-one)
 - [**@theavirajsaxena**](https://github.com/theavirajsaxena)
 - [**@linaTechDev**](https://github.com/linaTechDev)
 - [**@subashsrover**](https://github.com/subashsrover)
-- [**@vikram42003**](https://github.com/vikram42003)
 
 ### 📰 Recent Blog Posts
 
