@@ -14,7 +14,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 - [maximousblk/nyx](https://github.com/maximousblk/nyx) - 
 - [maximousblk/coredns-traefik-inet](https://github.com/maximousblk/coredns-traefik-inet) - coredns plugin to automatically map traifik hosts to an interface
-- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 
 ### 🌱 My latest projects
 
