@@ -62,5 +62,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 📰 Recent Blog Posts
 <!-- recent-blog-posts:start -->
-
+- [Deno for JavaScript Beginners](https://maximousblk.me/posts/deno-for-javascript-beginners)
+- [Brute-forcing websites with Callow](https://maximousblk.me/posts/brute-forcing-websites-with-callow)
+- [Hello World](https://maximousblk.me/posts/hello-world)
 <!-- recent-blog-posts:end -->
