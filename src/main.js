@@ -1,11 +1,11 @@
 const fs = require('node:fs/promises');
 const path = require('node:path');
 
-const recentActivity = require('./recent-activity');
-const recentRepositories = require('./recent-repositories');
-const recentPullRequests = require('./recent-pull-requests');
-const recentReleases = require('./recent-releases');
-const recentStars = require('./recent-stars');
+const activity = require('./activity');
+const repositories = require('./repositories');
+const pullRequests = require('./pull-requests');
+const releases = require('./releases');
+const stars = require('./stars');
 const followers = require('./followers');
 const blogPosts = require('./blog-posts');
 const render = require('./render');
@@ -33,11 +33,11 @@ async function generate({ github, fetch }) {
   const options = { github, fetch, username, limit: 5 };
 
   const sections = [
-    ['recent-public-activity', recentActivity, render.activity],
-    ['recent-projects', recentRepositories, render.repositories],
-    ['recent-pull-requests', recentPullRequests, render.pullRequests],
-    ['recent-releases', recentReleases, render.releases],
-    ['recent-stars', recentStars, render.stars],
+    ['recent-public-activity', activity, render.activity],
+    ['recent-projects', repositories, render.repositories],
+    ['recent-pull-requests', pullRequests, render.pullRequests],
+    ['recent-releases', releases, render.releases],
+    ['recent-stars', stars, render.stars],
     ['recent-followers', followers, render.followers],
     ['recent-blog-posts', (args) => blogPosts({ ...args, url: 'https://maximousblk.me/feed' }), render.blogPosts],
   ];
