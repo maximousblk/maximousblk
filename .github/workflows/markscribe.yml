@@ -18,16 +18,17 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Generate README
-        uses: muesli/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        uses: actions/github-script@v9
         with:
-          template: 'README.gtpl'
-          writeTo: 'README.md'
+          github-token: ${{ github.token }}
+          script: |
+            const { generate } = require('./src/main.js');
+            await generate({ github, fetch });
 
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v7
         env:
           GITHUB_TOKEN: ${{ github.token }}
         with:
+          branch: ${{ github.ref_name }}
           commit_message: 'markscribe: update README.md'
