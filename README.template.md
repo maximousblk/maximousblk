@@ -11,36 +11,29 @@ student and I also love Physics, and want to learn more about how the Universe w
 [`🤓 EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
 
 ### 👷 Check out what I'm currently working on
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
+<!-- recent-public-activity:start -->
+<!-- recent-public-activity:end -->
 
 ### 🌱 My latest projects
-{{ range recentRepos 5 }}
-- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
-{{- end }}
+<!-- recent-projects:start -->
+<!-- recent-projects:end -->
 
 ### 🔨 My recent Pull Requests
-{{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-{{- end }}
+<!-- recent-pull-requests:start -->
+<!-- recent-pull-requests:end -->
 
 ### 🔭 Latest releases I've contributed to
-{{ range recentReleases 5 }}
-- [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
-{{- end }}
+<!-- recent-releases:start -->
+<!-- recent-releases:end -->
 
 ### ⭐ Recent Stars
-{{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
+<!-- recent-stars:start -->
+<!-- recent-stars:end -->
 
 ### 💖 Recent followers
-{{ range followers 5 }}
-- [**@{{ .Login }}**]({{ .URL }})
-{{- end }}
+<!-- recent-followers:start -->
+<!-- recent-followers:end -->
 
 ### 📰 Recent Blog Posts
-{{ range rss "https://maximousblk.me/feed" 5 }}
-- [{{ .Title }}]({{ .URL }})
-{{- end }}
+<!-- recent-blog-posts:start -->
+<!-- recent-blog-posts:end -->
