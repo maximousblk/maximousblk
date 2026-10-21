@@ -12,6 +12,7 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 <!-- recent-public-activity:start -->
+- [aftershootco/swag](https://github.com/aftershootco/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [maximousblk/maximousblk](https://github.com/maximousblk/maximousblk) - I'm a Web Developer who likes building beautiful web interfaces & experiences.
 - [maximousblk/nyx](https://github.com/maximousblk/nyx) - 
 <!-- recent-public-activity:end -->
@@ -45,11 +46,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 <!-- recent-stars:start -->
+- [snapetech-org/TorrentNG](https://github.com/snapetech-org/TorrentNG) - Next-generation torrent client in Rust, with a universally compatible WebUI/API (including backwards compatibility with qbittorrent, rtorrent, transmission, deluge & more).
 - [indexable-inc/ra-jit](https://github.com/indexable-inc/ra-jit) - Rust compiler daemon on rust-analyzer: fast incremental cargo builds and live edits to running programs. Try: nix run github:indexable-inc/ra-jit
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
 - [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm) - muvm - run programs from your system in a microVM
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
-- [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging
 <!-- recent-stars:end -->
 
 ### 💖 Recent followers
