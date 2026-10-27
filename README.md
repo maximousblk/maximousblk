@@ -47,11 +47,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 <!-- recent-stars:start -->
+- [applicative-systems/declarative-runtime](https://github.com/applicative-systems/declarative-runtime) - Service runtime configuration through Terraform Providers
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [snapetech-org/TorrentNG](https://github.com/snapetech-org/TorrentNG) - Next-generation torrent client in Rust, with a universally compatible WebUI/API (including backwards compatibility with qbittorrent, rtorrent, transmission, deluge & more).
 - [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
-- [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm) - muvm - run programs from your system in a microVM
 <!-- recent-stars:end -->
 
 ### 💖 Recent followers
