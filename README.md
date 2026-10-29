@@ -47,11 +47,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 <!-- recent-stars:start -->
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
+- [ninxsoft/mist-cli](https://github.com/ninxsoft/mist-cli) - A Mac command-line tool that automatically downloads macOS Firmwares / Installers.
+- [manic-systems/dix](https://github.com/manic-systems/dix) - A blazingly fast tool to diff Nix related things
 - [applicative-systems/declarative-runtime](https://github.com/applicative-systems/declarative-runtime) - Service runtime configuration through Terraform Providers
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
-- [snapetech-org/TorrentNG](https://github.com/snapetech-org/TorrentNG) - Next-generation torrent client in Rust, with a universally compatible WebUI/API (including backwards compatibility with qbittorrent, rtorrent, transmission, deluge & more).
-- [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - EXPERIMENTAL! Incremental rust builds up to 92x faster than cargo/rustc
-- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
 <!-- recent-stars:end -->
 
 ### 💖 Recent followers
