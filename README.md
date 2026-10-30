@@ -12,10 +12,10 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### 👷 Check out what I'm currently working on
 <!-- recent-public-activity:start -->
+- [maximousblk/nyx](https://github.com/maximousblk/nyx) - 
 - [maximousblk/mochi](https://github.com/maximousblk/mochi) - Mochi: native desktop app for Tailcat hosts
 - [aftershootco/swag](https://github.com/aftershootco/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [maximousblk/maximousblk](https://github.com/maximousblk/maximousblk) - I'm a Web Developer who likes building beautiful web interfaces & experiences.
-- [maximousblk/nyx](https://github.com/maximousblk/nyx) - 
 <!-- recent-public-activity:end -->
 
 ### 🌱 My latest projects
@@ -47,11 +47,11 @@ student and I also love Physics, and want to learn more about how the Universe w
 
 ### ⭐ Recent Stars
 <!-- recent-stars:start -->
+- [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
+- [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [ninxsoft/mist-cli](https://github.com/ninxsoft/mist-cli) - A Mac command-line tool that automatically downloads macOS Firmwares / Installers.
 - [manic-systems/dix](https://github.com/manic-systems/dix) - A blazingly fast tool to diff Nix related things
-- [applicative-systems/declarative-runtime](https://github.com/applicative-systems/declarative-runtime) - Service runtime configuration through Terraform Providers
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 <!-- recent-stars:end -->
 
 ### 💖 Recent followers
