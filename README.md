@@ -15,7 +15,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 - [maximousblk/nyx](https://github.com/maximousblk/nyx) - 
 - [maximousblk/mochi](https://github.com/maximousblk/mochi) - Mochi: native desktop app for Tailcat hosts
 - [aftershootco/swag](https://github.com/aftershootco/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-- [maximousblk/maximousblk](https://github.com/maximousblk/maximousblk) - I'm a Web Developer who likes building beautiful web interfaces & experiences.
 <!-- recent-public-activity:end -->
 
 ### 🌱 My latest projects
