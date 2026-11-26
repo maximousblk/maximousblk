@@ -13,7 +13,6 @@ student and I also love Physics, and want to learn more about how the Universe w
 ### 👷 Check out what I'm currently working on
 <!-- recent-public-activity:start -->
 - [maximousblk/nyx](https://github.com/maximousblk/nyx) - 
-- [maximousblk/mochi](https://github.com/maximousblk/mochi) - Mochi: native desktop app for Tailcat hosts
 <!-- recent-public-activity:end -->
 
 ### 🌱 My latest projects
